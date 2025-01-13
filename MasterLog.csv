@@ -13,8 +13,8 @@
 2025.01.13;17:15:31;Strategy5;GRTUSD;240;1;;Result pending...;Mon Jan 13 2025 22:11:57 GMT+0200 (South Africa Standard Time)
 2025.01.13;17:15:31;Strategy5;GRTUSD;1440;2;;Result pending...;Mon Jan 13 2025 22:26:55 GMT+0200 (South Africa Standard Time)
 2025.01.13;17:15:31;Strategy5;EURUSD;30;2;;SELL SL hit! 2025-01-14 05:45:00;Mon Jan 13 2025 22:26:56 GMT+0200 (South Africa Standard Time)
-2025.01.13;17:15:31;Strategy5;EURUSD;60;1
-2025.01.13;17:15:31;Strategy5;EURUSD;240;1
+2025.01.13;17:15:31;Strategy5;EURUSD;60;1;;BUY SL hit! 2025-01-14 03:00:00;Mon Jan 13 2025 22:41:55 GMT+0200 (South Africa Standard Time)
+2025.01.13;17:15:31;Strategy5;EURUSD;240;1;;Result pending...;Mon Jan 13 2025 22:42:00 GMT+0200 (South Africa Standard Time)
 2025.01.13;17:15:31;Strategy5;EURUSD;1440;2
 2025.01.13;17:21:23;Strategy5;AUDUSD;30;1
 2025.01.13;17:21:24;Strategy5;AUDUSD;60;1
