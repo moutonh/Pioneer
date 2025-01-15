@@ -5,7 +5,7 @@
 2025.01.15;01:29:37;Strategy2;AUDUSD;15;2;01:30:00;TP2025-01-15 11:30:00;Wed Jan 15 2025 13:41:23 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.15;01:30:00;Strategy6;GRTUSD;30;2;01:30:00;TP2025-01-15 11:15:00;Wed Jan 15 2025 13:41:28 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.15;02:00:04;Strategy6;EURUSD;60;2;02:00:00;TP2025-01-15 17:00:00;Wed Jan 15 2025 13:46:27 GMT+0200 (South Africa Standard Time);;;;;;
-2025.01.15;02:30:01;Strategy6;GRTUSD;30;2;02:30:00;Result pending...;Wed Jan 15 2025 13:46:31 GMT+0200 (South Africa Standard Time);;;;;;
+2025.01.15;02:30:01;Strategy6;GRTUSD;30;2;02:30:00;SL2025-01-15 04:00:00;Wed Jan 15 2025 08:48:52 GMT-0600 (Central Standard Time);;;;;;
 2025.01.15;03:00:08;Strategy6;EURUSD;60;2;03:00:00;SL2025-01-15 19:00:00;Wed Jan 15 2025 13:51:26 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.15;04:00:04;Strategy6;EURUSD;60;2;04:00:00;SL2025-01-15 18:45:00;Wed Jan 15 2025 13:51:30 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.15;05:29:30;Strategy4;BTCUSD;15;2;05:30:00;Result pending...;Wed Jan 15 2025 13:56:27 GMT+0200 (South Africa Standard Time);;;;;;
