@@ -110,7 +110,7 @@
 2025.01.17;08:59:31;Strategy6;EURUSD;15;1;09:00:00;SL2025-01-17 18:15:00;Fri Jan 17 2025 15:09:00 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;08:59:38;Strategy6;XAGUSD;240;2;09:00:00;Result pending...;Fri Jan 17 2025 18:14:01 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;08:59:41;Strategy4;ETHUSD;15;2;09:00:00;Result pending...;Fri Jan 17 2025 18:14:01 GMT+0200 (South Africa Standard Time);;;;;;
-2025.01.17;08:59:45;Strategy4;SOLUSD;15;2;09:00:00;Result pending...;Fri Jan 17 2025 15:18:57 GMT+0200 (South Africa Standard Time);;;;;;
+2025.01.17;08:59:45;Strategy4;SOLUSD;15;2;09:00:00;Result pending...;Fri Jan 17 2025 18:19:01 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;08:59:49;Strategy6;USDCHF;15;2;09:00:00;SL2025-01-17 18:15:00;Fri Jan 17 2025 15:18:57 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;09:44:45;Strategy6;USDCHF;15;2;09:45:00;TP2025-01-17 19:15:00;Fri Jan 17 2025 15:23:57 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;10:00:22;Strategy6;USDCHF;15;2;10:01:00;TP2025-01-17 19:30:00;Fri Jan 17 2025 15:24:00 GMT+0200 (South Africa Standard Time);;;;;;
@@ -156,6 +156,6 @@
 2025.01.17;17:00:09;Strategy6;XAGUSD;60;1;17:00:00;Result pending...;Fri Jan 17 2025 18:04:01 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;17:14:46;Strategy6;USDCHF;15;2;17:15:00;SL2025-01-18 02:30:00;Fri Jan 17 2025 18:09:01 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;17:29:30;Strategy6;AUDUSD;30;1;17:30:00;Result pending...;Fri Jan 17 2025 18:09:04 GMT+0200 (South Africa Standard Time);;;;;;
-2025.01.17;17:29:58;Strategy4;ETHUSD;30;2;17:30:00;;;;;;;;
+2025.01.17;17:29:58;Strategy4;ETHUSD;30;2;17:30:00;Result pending...;Fri Jan 17 2025 18:19:02 GMT+0200 (South Africa Standard Time);;;;;;
 2025.01.17;17:30:09;Strategy6;USDCHF;30;2;17:30:00;;;;;;;;
 2025.01.17;17:59:30;Strategy6;AUDUSD;30;1;18:00:00;;;;;;;;
