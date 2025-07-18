@@ -577,7 +577,7 @@ ETHUSD;15;Setup;REload_MT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:20
 ETHUSD;15;Setup;CycleAfter_X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:20
 ETHUSD;15;Setup;CycleAfter_DAD;;;;;;;;;;;;;;;;;;;;;;;;;;;s;s;s;s;2025.07.18;21:20
 ETHUSD;15;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:20
-ETHUSD;15;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:20
+ETHUSD;15;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;s;;;;;;;;2025.07.18;21:20
 ETHUSD;15;Setup;LT_Conv.;;;;;;;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.07.18;21:20
 ETHUSD;15;K_D_MOM;MT_D_Angle;;;;;;;;;;;;;;s;s;s;s;s;s;s;s;s;;;;;;;;;2025.07.18;21:20
 ETHUSD;15;K_D_MOM;MT_K_Angle;;;;;;;;;;;;;;s;s;s;;;;;;;;;;;;;s;s;2025.07.18;21:20
