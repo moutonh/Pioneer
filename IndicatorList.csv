@@ -568,7 +568,7 @@ XAGUSD;30;BellCurve;ADX;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;202
 XAGUSD;30;BellCurve;MFI;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;2025.07.18;21:00
 XAGUSD;30;BellCurve;BB_RSI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;30;BellCurve;CCI;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;2025.07.18;21:00
-XAGUSD;60;Setup;Trend_Cont;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
+XAGUSD;60;Setup;Trend_Cont;b1;b1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;Setup;Trend_Reversal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;Setup;MACD_Div_Partial;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;2025.07.18;21:00
 XAGUSD;60;Setup;MACD_Div_Full;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
@@ -577,8 +577,8 @@ XAGUSD;60;Setup;REload_MT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;Setup;CycleAfter_X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;Setup;CycleAfter_DAD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
-XAGUSD;60;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
-XAGUSD;60;Setup;LT_Conv.;;;;;;;;;;;;;;;;;s;;;;;;;;;;s;s;;;2025.07.18;21:00
+XAGUSD;60;Setup;ST_Rubberband;;;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
+XAGUSD;60;Setup;LT_Conv.;;;s;;;;;;;;;;;;;;s;;;;;;;;;;s;s;;;2025.07.18;21:00
 XAGUSD;60;K_D_MOM;MT_D_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;K_D_MOM;MT_K_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
 XAGUSD;60;K_D_MOM;MT_MOM_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.07.18;21:00
