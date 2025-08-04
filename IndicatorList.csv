@@ -877,7 +877,7 @@ XAGUSD;15;Setup;CycleAfter_DAD;;;;;;;;;;;;;;;s;s;;;;;;;;;;;;;s;s;2025.08.04;18:3
 XAGUSD;15;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;Setup;MT_MOM_Wave2;;;;;;;b;b;b;b;b;b;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
-XAGUSD;15;Setup;ImpulseWithoutRetrace;;;;;;b;b;b;b;b;b;b;b;b;;;;;;;;;;;;;;;;;2025.08.04;18:30
+XAGUSD;15;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;Setup;LT_Conv.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
@@ -887,7 +887,7 @@ XAGUSD;15;K_D_MOM;MT_MOM_Angle;;;;;;;;;;b;;b;;;s;s;;;;;s;;;s;s;s;s;;s;s;2025.08.
 XAGUSD;15;K_D_MOM;ST_D_Angle;;;;;;;;;;b;;b;;;s;s;;;;;s;;;s;s;s;s;;;;2025.08.04;18:30
 XAGUSD;15;K_D_MOM;ST_K_Angle;;;;;;;;;;b;;;;;s;;;;;;s;;;s;s;;;;;s;2025.08.04;18:30
 XAGUSD;15;K_D_MOM;ST_MOM_Angle;;;;;;;;;;b;;b;;;s;;;;;;s;;;s;s;s;;;s;s;2025.08.04;18:30
-XAGUSD;15;TRIGGER;P.ActionBar;;;s;;s;;;;;b;;;;;;b;;;b;;;;;s;;;;;s;;2025.08.04;18:30
+XAGUSD;15;TRIGGER;P.ActionBar;;;;;;;;;;b;;;;;;;;;;s;;;;s;;;;;s;;2025.08.04;18:30
 XAGUSD;15;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;;s;;;;;;;2025.08.04;18:30
 XAGUSD;15;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
 XAGUSD;15;BellCurve;TD_Nine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.04;18:30
