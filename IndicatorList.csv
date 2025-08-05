@@ -935,8 +935,8 @@ ETHUSD;240;K_D_MOM;MT_MOM_Angle;s;s;s;;;;;;;;;;;;;;;;b;b;b;b;b;;;;;;;;2025.08.05
 ETHUSD;240;K_D_MOM;ST_D_Angle;;s;s;;;;;;;;;;;;;;;;b;b;b;b;;;;;;;s;s;2025.08.05;11:05
 ETHUSD;240;K_D_MOM;ST_K_Angle;s;s;s;;;;;;;;;;;;;;;;;;;;;;;;;;s;s;2025.08.05;11:05
 ETHUSD;240;K_D_MOM;ST_MOM_Angle;s;s;s;;;;;;;;;;;;;;;;b;b;b;b;b;;;;;;s;s;2025.08.05;11:05
-ETHUSD;240;TRIGGER;P.ActionBar;s;;;;;;;s;;;s;;;;;;;;;;;;s;;;;;s;;;2025.08.05;11:05
-ETHUSD;240;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;s;;;;s;;;;2025.08.05;11:05
+ETHUSD;240;TRIGGER;P.ActionBar;s;;;;;;;s;;;s;;;;;;;;;;;;;;;;;s;;;2025.08.05;11:05
+ETHUSD;240;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;;;;;s;;;;2025.08.05;11:05
 ETHUSD;240;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:05
 ETHUSD;240;BellCurve;TD_Nine;;;;;;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;s;;;;;;2025.08.05;11:05
 ETHUSD;240;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:05
