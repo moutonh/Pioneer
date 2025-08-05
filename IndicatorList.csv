@@ -925,7 +925,7 @@ NAS100;60;Setup;CycleAfter_DAD;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;s;s;s;s
 NAS100;60;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
 NAS100;60;Setup;MT_MOM_Wave2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
 NAS100;60;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
-NAS100;60;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
+NAS100;60;Setup;ImpulseWithoutRetrace;s;s;s;s;s;s;s;s;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
 NAS100;60;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
 NAS100;60;Setup;ST_Rubberband;;;;;;;;;s;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
 NAS100;60;Setup;LT_Conv.;s;s;s;s;s;s;s;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;14:00
