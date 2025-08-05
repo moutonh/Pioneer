@@ -937,8 +937,8 @@ NAS100;30;K_D_MOM;ST_K_Angle;s;;;s;;;s;s;;;;;;s;s;;;s;;;;s;s;;;;s;s;s;s;2025.08.
 NAS100;30;K_D_MOM;ST_MOM_Angle;;;;;;;s;s;;;;;;;s;;;s;;;;s;s;;;;s;s;s;s;2025.08.05;02:00
 NAS100;30;TRIGGER;P.ActionBar;;;s;s;;;;;;;;;;;;;;;;;;;s;;;;s;;s;;2025.08.05;02:00
 NAS100;30;TRIGGER;Stoc_Div.;;;s;;;;s;;;;;;;;;;;s;;s;;;;;;;;;;;2025.08.05;02:00
-NAS100;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;02:00
-NAS100;30;BellCurve;TD_Nine;;;;;;;;;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.08.05;02:00
+NAS100;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;s;s;s;s;s;s;2025.08.05;02:00
+NAS100;30;BellCurve;TD_Nine;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.08.05;02:00
 NAS100;30;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;02:00
 NAS100;30;BellCurve;Riding8EMA;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.08.05;02:00
 NAS100;30;BellCurve;SMI-div.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;02:00
