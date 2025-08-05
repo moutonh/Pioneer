@@ -925,7 +925,7 @@ XAGUSD;30;Setup;CycleAfter_DAD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
 XAGUSD;30;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
 XAGUSD;30;Setup;MT_MOM_Wave2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
 XAGUSD;30;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
-XAGUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
+XAGUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;b;b;b;b;b;b;b;b;;b;2025.08.05;11:00
 XAGUSD;30;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
 XAGUSD;30;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
 XAGUSD;30;Setup;LT_Conv.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.05;11:00
