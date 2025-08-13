@@ -927,7 +927,7 @@ ETHUSD;30;Setup;CycleAfter_DAD;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;Setup;MT_MOM_Wave3;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.08.13;04:05
 ETHUSD;30;Setup;MT_MOM_Wave2;b;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
-ETHUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
+ETHUSD;30;Setup;ImpulseWithoutRetrace;;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;Setup;LT_Conv.;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
@@ -937,8 +937,8 @@ ETHUSD;30;K_D_MOM;MT_MOM_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;s;s;2025.08.13;04:05
 ETHUSD;30;K_D_MOM;ST_D_Angle;;;;;;;;;;;s;;;;s;s;;;;;;s;s;s;s;;;;s;s;2025.08.13;04:05
 ETHUSD;30;K_D_MOM;ST_K_Angle;;;;;;;;;;;s;;;;s;s;;;;;s;s;s;s;;;;;s;s;2025.08.13;04:05
 ETHUSD;30;K_D_MOM;ST_MOM_Angle;;;;;;;;;;;s;;;;s;s;;s;;;s;s;s;s;s;s;;;s;s;2025.08.13;04:05
-ETHUSD;30;TRIGGER;P.ActionBar;;;;;;;;;;;;;s;;s;;;;;;;;;;;;;s;;;2025.08.13;04:05
-ETHUSD;30;TRIGGER;Stoc_Div.;;;;;;;s;;;s;;;s;;s;s;;;;s;s;;;;;;;s;;;2025.08.13;04:05
+ETHUSD;30;TRIGGER;P.ActionBar;;;;;;;;;;;;b;;;s;;;;;;;;;;;;;s;;;2025.08.13;04:05
+ETHUSD;30;TRIGGER;Stoc_Div.;;;;;;;s;;;s;;;;;s;s;;;;s;s;;;;;;;s;;;2025.08.13;04:05
 ETHUSD;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
 ETHUSD;30;BellCurve;TD_Nine;;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2025.08.13;04:05
 ETHUSD;30;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.13;04:05
