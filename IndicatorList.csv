@@ -939,7 +939,7 @@ XAGUSD;60;K_D_MOM;ST_K_Angle;s;s;;;;s;;;s;;;;;s;s;;;;;;;;;;;;;;;;2025.08.14;22:0
 XAGUSD;60;K_D_MOM;ST_MOM_Angle;s;s;s;s;s;s;;s;s;s;;;;s;s;s;s;;;;;;;;;;;;;;2025.08.14;22:00
 XAGUSD;60;TRIGGER;P.ActionBar;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.14;22:00
 XAGUSD;60;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.14;22:00
-XAGUSD;60;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;b;b;b;b;b;b;b;2025.08.14;22:00
+XAGUSD;60;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.14;22:00
 XAGUSD;60;BellCurve;TD_Nine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.14;22:00
 XAGUSD;60;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;s;;;;;;;;;;;;;;2025.08.14;22:00
 XAGUSD;60;BellCurve;Riding8EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.14;22:00
