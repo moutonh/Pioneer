@@ -927,7 +927,7 @@ ETHUSD;30;Setup;CycleAfter_DAD;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;;;;;;;20
 ETHUSD;30;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;2025.08.15;20:05
 ETHUSD;30;Setup;MT_MOM_Wave2;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;s;;s;s;;;;;;;;;;;2025.08.15;20:05
 ETHUSD;30;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.15;20:05
-ETHUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.15;20:05
+ETHUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;;2025.08.15;20:05
 ETHUSD;30;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;b;b;;b;b;b;2025.08.15;20:05
 ETHUSD;30;Setup;ST_Rubberband;;;;;;s;;;;;;;;;;;;;;;;;b;;;;;;;;2025.08.15;20:05
 ETHUSD;30;Setup;LT_Conv.;s;s;s;s;s;s;s;;s;s;;;s;s;;s;s;;;;;;b;;b;b;;b;b;b;2025.08.15;20:05
