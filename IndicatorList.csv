@@ -909,9 +909,9 @@ BTCUSD;30;K_D_MOM;ST_D_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;2025.08.21;16:05
 BTCUSD;30;K_D_MOM;ST_K_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
 BTCUSD;30;K_D_MOM;ST_MOM_Angle;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;2025.08.21;16:05
 BTCUSD;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
-BTCUSD;30;BellCurve;TD_Nine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
-BTCUSD;30;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;;;;;b;b;b;b;b;b;b;b;b;b;2025.08.21;16:05
-BTCUSD;30;BellCurve;Riding8EMA;;;;;;;;;;;;;;;;;;;;;b;b;b;b;b;b;b;b;b;b;2025.08.21;16:05
+BTCUSD;30;BellCurve;TD_Nine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;b;2025.08.21;16:05
+BTCUSD;30;BellCurve;Riding21EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
+BTCUSD;30;BellCurve;Riding8EMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
 BTCUSD;30;BellCurve;SMI-div.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
 BTCUSD;30;BellCurve;SMI-climax;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
 BTCUSD;30;BellCurve;RSI_BB_Stoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2025.08.21;16:05
