@@ -2946,7 +2946,7 @@ NAS100;15;BellCurve;MT_LT_Stoc_Extreme;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;
 NAS100;15;BellCurve;8EMA;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;;;;;;2026.01.28;13:45
 NAS100;15;BellCurve;21EMA;;;;;;;;;;;;;;;;s;s;s;;;;;;;;;;;;;2026.01.28;13:45
 NAS100;15;BellCurve;CCI;;;;;;;;;;;;;;;;;;s;;;;;;;;;;;;;2026.01.28;13:45
-NAS100;15;BellCurve;TD_Nine;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;s;;;;;2026.01.28;13:45
+NAS100;15;BellCurve;TD_Nine;;;;;;;;;;;;;;;;;;s;;;;;;;;s;;;;;2026.01.28;13:45
 NAS100;15;BellCurve;BB_RSI;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;;;;;;2026.01.28;13:45
 NAS100;15;BellCurve;ST_Reload;;;;;;;;;;;;;;;;;;s;;;;;;;;;;;;;2026.01.28;13:45
 NAS100;15;BellCurve;ST_Mom_Div;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;s;s;s;s;s;s;s;s;;;2026.01.28;13:45
