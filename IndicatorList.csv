@@ -2920,7 +2920,7 @@ LTCUSD;15;Setup;CycleAfter_DAD;s;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
 LTCUSD;15;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;b;b;2026.01.29;16:35
 LTCUSD;15;Setup;MT_MOM_Wave2;s;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
 LTCUSD;15;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
-LTCUSD;15;Setup;ImpulseWithoutRetrace;s;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
+LTCUSD;15;Setup;ImpulseWithoutRetrace;;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
 LTCUSD;15;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
 LTCUSD;15;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
 LTCUSD;15;Setup;LT_Conv.;s;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;16:35
