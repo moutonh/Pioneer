@@ -2936,7 +2936,7 @@ LTCUSD;15;TRIGGER;TD_Alignm.;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.01.29;23:35
 LTCUSD;15;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;23:35
 LTCUSD;15;BellCurve;TopDOG_Setup;;;;;;;;;b;;;;;;;;;b;b;;b;b;b;;;b;;;;;2026.01.29;23:35
 LTCUSD;15;BellCurve;TD_Alignment;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;2026.01.29;23:35
-LTCUSD;15;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;b;;;;;2026.01.29;23:35
+LTCUSD;15;BellCurve;TD_Countdown;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;2026.01.29;23:35
 LTCUSD;15;BellCurve;SMIclimax;;;;;;;;;;;;;;;;;;;;;;;;;;b;;;s;s;2026.01.29;23:35
 LTCUSD;15;BellCurve;SMI-div.;;;;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;2026.01.29;23:35
 LTCUSD;15;BellCurve;RSI_BB_Stoc;;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;2026.01.29;23:35
