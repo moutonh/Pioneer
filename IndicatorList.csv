@@ -2936,7 +2936,7 @@ ETHUSD;15;TRIGGER;TD_Alignm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
 ETHUSD;15;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
 ETHUSD;15;BellCurve;TopDOG_Setup;;;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
 ETHUSD;15;BellCurve;TD_Alignment;b;b;b;b;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;2026.01.29;21:20
-ETHUSD;15;BellCurve;TD_Countdown;;;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
+ETHUSD;15;BellCurve;TD_Countdown;;;;b;;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;2026.01.29;21:20
 ETHUSD;15;BellCurve;SMIclimax;;;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
 ETHUSD;15;BellCurve;SMI-div.;;;;b;;;;;;;;;;;;;;;;;;;;;;;;;;b;2026.01.29;21:20
 ETHUSD;15;BellCurve;RSI_BB_Stoc;b;b;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.29;21:20
