@@ -2946,7 +2946,7 @@ ETHUSD;15;BellCurve;MT_LT_Stoc_Extreme;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.3
 ETHUSD;15;BellCurve;8EMA;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.30;05:50
 ETHUSD;15;BellCurve;21EMA;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.30;05:50
 ETHUSD;15;BellCurve;CCI;b;b;;;;;;;;;;;;;;;;b;;;;;;;;;;;;;2026.01.30;05:50
-ETHUSD;15;BellCurve;TD_Nine;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.30;05:50
+ETHUSD;15;BellCurve;TD_Nine;s;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.30;05:50
 ETHUSD;15;BellCurve;BB_RSI;b;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.01.30;05:50
 ETHUSD;15;BellCurve;ST_Reload;;b;;;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;;;;;;;;;2026.01.30;05:50
 ETHUSD;15;BellCurve;ST_Mom_Div;;b;;;;;;;;;;;;;;b;b;;b;;;;;;;;;;;;2026.01.30;05:50
