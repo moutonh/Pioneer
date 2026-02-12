@@ -3018,7 +3018,7 @@ LTCUSD;15;BellCurve;MT_LT_Stoc_Extreme;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;s;s;2026.02.
 LTCUSD;15;BellCurve;8EMA;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
 LTCUSD;15;BellCurve;21EMA;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
 LTCUSD;15;BellCurve;CCI;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
-LTCUSD;15;BellCurve;TD_Nine;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
+LTCUSD;15;BellCurve;TD_Nine;s;;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
 LTCUSD;15;BellCurve;BB_RSI;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
 LTCUSD;15;BellCurve;ST_Reload;s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;08:20
 LTCUSD;15;BellCurve;ST_Mom_Div;s;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2026.02.12;08:20
