@@ -2991,7 +2991,7 @@ AUDUSD;15;Setup;CycleAfter_DAD;;;;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;;;;;2026.
 AUDUSD;15;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;b;2026.02.12;06:15
 AUDUSD;15;Setup;MT_MOM_Wave2;b;b;b;b;b;b;b;;;;;;;;;;;;s;s;s;s;s;s;s;;;;;;2026.02.12;06:15
 AUDUSD;15;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;06:15
-AUDUSD;15;Setup;ImpulseWithoutRetrace;b;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;06:15
+AUDUSD;15;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;06:15
 AUDUSD;15;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.12;06:15
 AUDUSD;15;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;b;b;;2026.02.12;06:15
 AUDUSD;15;Setup;LT_Conv.;b;b;b;b;b;b;b;;;;s;;;;;;;;s;s;s;s;s;s;s;;;;;;2026.02.12;06:15
