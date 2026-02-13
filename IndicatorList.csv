@@ -3008,7 +3008,7 @@ AUDUSD;15;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;TRIGGER;AfterLOSS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;TopDOG_Setup;;;b;b;b;b;b;b;b;;;;;;;;;;b;;;s;s;s;s;s;s;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;TD_Alignment;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;b;b;b;b;b;b;b;2026.02.13;13:00
-AUDUSD;15;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;b;;;;;;;;;b;;;2026.02.13;13:00
+AUDUSD;15;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;SMIclimax;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;SMI-div.;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;RSI_BB_Stoc;;;;;;;;;;;;;;;;;;;b;;;;;b;;;b;;;b;2026.02.13;13:00
@@ -3018,7 +3018,7 @@ AUDUSD;15;BellCurve;MT_LT_Stoc_Extreme;;;;;;;;;;b;b;b;b;b;b;b;b;b;b;;;;;;;;;;;;2
 AUDUSD;15;BellCurve;8EMA;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;21EMA;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;CCI;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
-AUDUSD;15;BellCurve;TD_Nine;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;;;;;;b;;2026.02.13;13:00
+AUDUSD;15;BellCurve;TD_Nine;;;;;;;b;b;b;b;b;b;b;b;b;b;b;b;b;;;;;;;;;;b;;2026.02.13;13:00
 AUDUSD;15;BellCurve;BB_RSI;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;ST_Reload;;;;;;;;;;;;;;;;;;;b;;;;;;;;;;;;2026.02.13;13:00
 AUDUSD;15;BellCurve;ST_Mom_Div;;;;;;;;;;;;;;;;;;;b;;;;b;b;b;b;b;b;b;b;2026.02.13;13:00
