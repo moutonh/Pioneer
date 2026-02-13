@@ -3004,8 +3004,8 @@ GBPUSD;30;K_D_MOM;ST_K_Angle;;;;;;b;b;;b;b;;;;;;;;;;;;b;b;;;;;;s;s;2026.02.13;12
 GBPUSD;30;TRIGGER;P.ActionBar;;;;;;;;;b;;;;;;;;;;;;;;;;;;;;;s;2026.02.13;12:30
 GBPUSD;30;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 GBPUSD;30;TRIGGER;TD_Alignm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
-GBPUSD;30;TRIGGER;MA_S&R;;;;;;;;;b;;;;;;;;;;;;;;;;;;;;;s;2026.02.13;12:30
-GBPUSD;30;TRIGGER;AfterLOSS;;;;;;;;;b;;;;;;;;;;;;;;;;;;;;;s;2026.02.13;12:30
+GBPUSD;30;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
+GBPUSD;30;TRIGGER;AfterLOSS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 GBPUSD;30;BellCurve;TopDOG_Setup;b;b;b;b;b;b;b;b;;;;;s;;;;;;;;;;b;b;;b;;s;s;s;2026.02.13;12:30
 GBPUSD;30;BellCurve;TD_Alignment;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;2026.02.13;12:30
 GBPUSD;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;b;;;;;2026.02.13;12:30
