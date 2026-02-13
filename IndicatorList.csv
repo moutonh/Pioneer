@@ -2991,7 +2991,7 @@ XAUUSD;30;Setup;CycleAfter_DAD;;;;;;;;;;;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;;202
 XAUUSD;30;Setup;MT_MOM_Wave3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 XAUUSD;30;Setup;MT_MOM_Wave2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 XAUUSD;30;Setup;X_Marks_the_spot;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
-XAUUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
+XAUUSD;30;Setup;ImpulseWithoutRetrace;;;;;;;;;;;;;;;;;;;;;;s;s;s;s;s;s;s;s;;2026.02.13;12:30
 XAUUSD;30;Setup;MT_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 XAUUSD;30;Setup;ST_Rubberband;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 XAUUSD;30;Setup;LT_Conv.;;;;;;;;b;;b;;;s;s;s;s;s;s;s;s;s;s;s;;;s;s;;;;2026.02.13;12:30
@@ -3004,9 +3004,9 @@ XAUUSD;30;K_D_MOM;ST_K_Angle;;;;;;;;;;;;;;;;;s;;;;;;;;;s;s;;;;2026.02.13;12:30
 XAUUSD;30;TRIGGER;P.ActionBar;;;;;;;;;;;;;;;;;;;;;;;;;;s;;;;;2026.02.13;12:30
 XAUUSD;30;TRIGGER;Stoc_Div.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
 XAUUSD;30;TRIGGER;TD_Alignm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
-XAUUSD;30;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;s;;;;;2026.02.13;12:30
-XAUUSD;30;TRIGGER;AfterLOSS;;;;;;;;;;;;;;;;;;;;;;;;;;s;;;;;2026.02.13;12:30
-XAUUSD;30;BellCurve;TopDOG_Setup;;;;;;;;b;;b;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;;s;2026.02.13;12:30
+XAUUSD;30;TRIGGER;MA_S&R;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
+XAUUSD;30;TRIGGER;AfterLOSS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2026.02.13;12:30
+XAUUSD;30;BellCurve;TopDOG_Setup;;;;;;;;b;;b;;;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;2026.02.13;12:30
 XAUUSD;30;BellCurve;TD_Alignment;;;b;b;b;b;b;;;;;;;;;;;;b;b;b;b;;;;b;b;b;b;s;2026.02.13;12:30
 XAUUSD;30;BellCurve;TD_Countdown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;s;2026.02.13;12:30
 XAUUSD;30;BellCurve;SMIclimax;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;s;2026.02.13;12:30
