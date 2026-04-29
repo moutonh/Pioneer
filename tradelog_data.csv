@@ -1,5 +1,5 @@
 num,symbol,timeframe,platform,date,monthYear,direction,result,hindsight,winAmount,rulesFollowed,rulesCount,emotions,entering,mistakes,comments,timestamp
-8,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,130,,,,"With 8&21 EMA trend, 
+8,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,130,YES,,,"With 8&21 EMA trend, 
 Strong PA candles,
 From kill zone, 
 With MT_MOM,,
