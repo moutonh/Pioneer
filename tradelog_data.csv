@@ -1,4 +1,3 @@
 num,symbol,timeframe,platform,date,monthYear,result,winAmount,rulesFollowed,emotions,entering,mistakes,comments,timestamp
 3,ZARUSD,H1,MT5,2026-04-22,Apr 2026,TP,,YES,,,,,1776845549991
 4,BTCUSD,M1,MT4,2026-04-22,Apr 2026,TP,50,,,rrrrrrrr,dddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,rrrrrrrrrrrrrrrrr,1776845724989
-5,eurusd,H1,MT4,2026-04-22,Apr 2026,SL,-30,,,,,,1776846705443
