@@ -2,4 +2,5 @@ num,symbol,timeframe,platform,date,monthYear,result,winAmount,rulesFollowed,emot
 8,BTCUSD,D1,MT4,2026-04-21,Apr 2026,TP,130,,,"With 8&21 EMA trend, 
 Strong PA candles,
 From kill zone, 
-With MT_MOM",,,1777435492422
+With MT_MOM,,
+50%% Entry",,,1777435492422
