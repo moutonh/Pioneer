@@ -7,7 +7,7 @@ With MT_MOM,,
 9,ETHUSD,D1,MT4,2026-04-27,Apr 2026,BUY,SL,,-50,YES,4,,"Trendline Break - Against 21 EMA
 With Mom break
 WEAK PA candle",,WEAK PA candle,1777436336125
-10,USDJPY,D1,MT4,2026-04-20,Apr 2026,BUY,CLOSED,,11,YES,,,"PIN BAR From Kill zone,
+10,USDJPY,D1,MT4,2026-04-20,Apr 2026,BUY,CLOSED,SL,11,YES,,,"PIN BAR From Kill zone,
 Pin bar rejected 3 touch support zone,
 Perfect setup",,"Closed after strong rejecting Volume, looks like fake out - Wait for more information to re-enter",1777436609534
 11,ETHUSD,D1,MT4,2026-04-27,Apr 2026,SELL,SL,,-50,YES,4,,"WITH 8&21 EMA trend
