@@ -62,3 +62,4 @@ Volume climax- indicating support",Too big position on EUR - Already long EURUSD
 -With 50SMA
 -With 150SMA",Too few confirmations,,sma150|sma50|rubberband,,1778214556173
 21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,,,,YES,9,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,1778220969703
+22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,,6,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,1778221467677
