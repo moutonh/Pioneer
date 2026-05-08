@@ -61,3 +61,4 @@ Volume climax- indicating support",Too big position on EUR - Already long EURUSD
 20,USDJPY,D1,MT4,2026-05-05,May 2026,BUY,SL,,-50,NO,3,"Rubber Band trade
 -With 50SMA
 -With 150SMA",Too few confirmations,,sma150|sma50|rubberband,,1778214556173
+21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,,,,YES,9,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,1778220969703
