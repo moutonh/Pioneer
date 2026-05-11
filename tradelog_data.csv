@@ -62,7 +62,7 @@ Volume climax- indicating support",Too big position on EUR - Already long EURUSD
 -With 50SMA
 -With 150SMA",Too few confirmations,,sma150|sma50|rubberband,,,,1778214556173
 21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,,,,YES,9,,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,,,1778220969703
-22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,6,,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,true,false,1778221467677
+22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,6,Daily Strat,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,true,false,1778221467677
 23,SOLUSD,D1,MT4,2026-05-06,May 2026,BUY,TP,,125,YES,5,Daily Strat,,,,ema820|trendline|snr|mtmom|candle,,true,false,1778221965860
 24,US30,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778222667640
 25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,10.99,,6,Daily Strat,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme|rubberband,,false,false,1778223043931
