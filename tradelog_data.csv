@@ -65,5 +65,5 @@ Volume climax- indicating support",Too big position on EUR - Already long EURUSD
 22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,6,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,true,false,1778221467677
 23,SOLUSD,D1,MT4,2026-05-06,May 2026,BUY,TP,,125,YES,5,,,,ema820|trendline|snr|mtmom|candle,,true,false,1778221965860
 24,US30,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,8,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778222667640
-25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,,,5,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme,,false,false,1778223043931
+25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,10.99,,5,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme,,false,false,1778223043931
 26,AUDUSD,D1,MT4,2026-05-07,May 2026,BUY,,,,YES,8,Ascending wedge line break to the upside,,,sma150|sma50|ema820|killzone|mtmom|candle|reload,1,false,false,1778223538594
