@@ -1,41 +1,41 @@
-num,symbol,timeframe,platform,date,monthYear,direction,result,hindsight,winAmount,rulesFollowed,rulesCount,strategy,entering,mistakes,comments,reasonChecklist,addReasons,inclCalc,scriptFixed,timestamp
-8,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,130,YES,4,,"With 8&21 EMA trend, 
+num,symbol,timeframe,platform,date,monthYear,direction,result,hindsight,winAmount,rulesFollowed,rulesCount,entering,mistakes,comments,reasonChecklist,addReasons,inclCalc,scriptFixed,timestamp
+8,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,130,YES,4,"With 8&21 EMA trend, 
 Strong PA candles,
 From kill zone, 
 With MT_MOM,,
 50%% Entry",,,,,false,false,1777435492422
-9,ETHUSD,D1,MT4,2026-04-27,Apr 2026,BUY,SL,,-50,YES,4,,"Trendline Break - Against 21 EMA
+9,ETHUSD,D1,MT4,2026-04-27,Apr 2026,BUY,SL,,-50,YES,4,"Trendline Break - Against 21 EMA
 With Mom break
 WEAK PA candle",,WEAK PA candle,,,false,false,1777436336125
-10,USDJPY,D1,MT4,2026-04-20,Apr 2026,BUY,CLOSED,SL,11,YES,,,"PIN BAR From Kill zone,
+10,USDJPY,D1,MT4,2026-04-20,Apr 2026,BUY,CLOSED,SL,11,YES,,"PIN BAR From Kill zone,
 Pin bar rejected 3 touch support zone,
 Perfect setup",,"Closed after strong rejecting Volume, looks like fake out - Wait for more information to re-enter",,,false,false,1777436609534
-11,ETHUSD,D1,MT4,2026-04-27,Apr 2026,SELL,SL,,-50,YES,4,,"WITH 8&21 EMA trend
+11,ETHUSD,D1,MT4,2026-04-27,Apr 2026,SELL,SL,,-50,YES,4,"WITH 8&21 EMA trend
 Stong PA candle
 From Kill zone,
 With MT_MOM",,,,,false,false,1777436798965
-12,BRENT,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,100,YES,5,,"With 50SMA trend -Triangle retrace
+12,BRENT,D1,MT4,2026-04-21,Apr 2026,BUY,TP,,100,YES,5,"With 50SMA trend -Triangle retrace
 At 50SMA as Resistance 
 Strong PA bar pierce 3 touch low,
 5 Mom wave retrace
 Stoc -second chance entry
 VERY STRONG entry signal",,,,,false,false,1777437036227
-13,USDCHF,D1,MT4,2026-04-22,Apr 2026,BUY,TP,,100,YES,5,,"Break Trend line,
+13,USDCHF,D1,MT4,2026-04-22,Apr 2026,BUY,TP,,100,YES,5,"Break Trend line,
 Stoc - Second chance
 Strong PA candle
 Volume - @ resistance
 Rubber Band trade",,,,,false,false,1777437414488
-14,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,CLOSED,TP,14,YES,,,"With 8&21EMA
+14,BTCUSD,D1,MT4,2026-04-21,Apr 2026,BUY,CLOSED,TP,14,YES,,"With 8&21EMA
 From Killzone
 @ Resistance level
 With MT_MOM",,"Closed at Strong PA OB candle
 - From Volume big level",,,false,false,1777437851645
-15,GBPUSD,D1,MT4,2026-04-27,Apr 2026,BUY,CLOSED,,21,YES,,,"Trendline Break
+15,GBPUSD,D1,MT4,2026-04-27,Apr 2026,BUY,CLOSED,,21,YES,,"Trendline Break
 With 8&21 EMA
 Volume level
 Strong PA candle
 From Resistance level",,Closed - fake out candle structure - potential to take out stop - wait for more information to proceed,,,false,false,1777438772363
-16,BTCUSD,D1,MT4,2026-04-28,Apr 2026,SELL,CLOSED,,-20.02,YES,,,"Volume resistance
+16,BTCUSD,D1,MT4,2026-04-28,Apr 2026,SELL,CLOSED,,-20.02,YES,,"Volume resistance
 OB rejection candle 
 Trend line break against 21EMA
 ST_MOM Structure break
@@ -43,28 +43,28 @@ MT_MOM turn
 Stoc - Second chance",,"Closed - Stopping Volume
 Fake-out candle scenario 
 -In the Kill-zone",,,false,false,1777439435543
-17,EURUSD,D1,MT4,2026-04-28,Apr 2026,SELL,SL,,-50,YES,,,"Rubber Band trade
+17,EURUSD,D1,MT4,2026-04-28,Apr 2026,SELL,SL,,-50,YES,,"Rubber Band trade
 PA candle stick pattern
 Inside 8EMA
 With MT_MOM",,,,,false,false,1777439859989
-18,USDJPY,D1,MT4,2026-04-29,Apr 2026,BUY,SL,,-50,YES,,,"With 8&21 EMA
+18,USDJPY,D1,MT4,2026-04-29,Apr 2026,BUY,SL,,-50,YES,,"With 8&21 EMA
 From Kill zone
 PIN Bar candle stick pattern 
 At Resistance level
 MOM Reload multi retrace 
 Volume level confirmation",,,,,false,false,1777440087731
-19,EURJPY,H4,MT4,2026-04-29,Apr 2026,BUY,SL,,-50,YES,,,"With trend 8&21EMA
+19,EURJPY,H4,MT4,2026-04-29,Apr 2026,BUY,SL,,-50,YES,,"With trend 8&21EMA
 From Kill zone
 Strong PA candle
 Which broke 3 touch support
 Volume climax- indicating support",Too big position on EUR - Already long EURUSD - Must have move the STOP to BE then,,,,false,false,1777610153242
-20,USDJPY,D1,MT4,2026-05-05,May 2026,BUY,SL,,-50,NO,3,Daily Strat,"Rubber Band trade
+20,USDJPY,D1,MT4,2026-05-05,May 2026,BUY,SL,,-50,NO,3,"Rubber Band trade
 -With 50SMA
 -With 150SMA",Too few confirmations,,sma150|sma50|rubberband,,false,false,1778214556173
-21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,,,,YES,9,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778220969703
-22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,6,Daily Strat,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,true,false,1778221467677
-23,SOLUSD,D1,MT4,2026-05-06,May 2026,BUY,TP,,125,YES,5,Daily Strat,,,,ema820|trendline|snr|mtmom|candle,,true,false,1778221965860
-24,US30,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778222667640
-25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,10.99,,6,Daily Strat,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme|rubberband,,false,false,1778223043931
-26,AUDUSD,D1,MT4,2026-05-07,May 2026,BUY,,,,YES,8,Daily Strat,Ascending wedge line break to the upside,,,sma150|sma50|ema820|killzone|mtmom|candle|reload,1,false,false,1778223538594
-27,AUDJPY,D1,MT4,2026-05-11,May 2026,BUY,,,,,8,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|snr|ststoc|volextreme,,false,false,1778557677963
+21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,,,,YES,9,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778220969703
+22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,6,,,,sma150|ema820|trendline|mtmom|ststoc|candle,,true,false,1778221467677
+23,SOLUSD,D1,MT4,2026-05-06,May 2026,BUY,TP,,125,YES,5,,,,ema820|trendline|snr|mtmom|candle,,true,false,1778221965860
+24,US30,D1,MT4,2026-05-08,May 2026,BUY,,,,YES,8,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1778222667640
+25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,10.99,,6,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme|rubberband,,false,false,1778223043931
+26,AUDUSD,D1,MT4,2026-05-07,May 2026,BUY,,,,YES,8,Ascending wedge line break to the upside,,,sma150|sma50|ema820|killzone|mtmom|candle|reload,1,false,false,1778223538594
+27,AUDJPY,D1,MT4,2026-05-12,May 2026,BUY,,,,,8,,,,sma150|sma50|ema820|killzone|trendline|snr|ststoc|volextreme,,false,false,1778557677963
