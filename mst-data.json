@@ -7,7 +7,7 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-05-18T09:29:35.034Z"
+      "updatedAt": "2026-05-18T10:17:07.985Z"
     },
     {
       "id": "sym_1779095081442",
@@ -26,6 +26,15 @@
       "structure": "Retrace to Fib level\nSFP",
       "watchFor": "",
       "updatedAt": "2026-05-18T10:15:03.746Z"
+    },
+    {
+      "id": "sym_1779099463906",
+      "name": "TRXUSDT",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": "2026-05-18T10:18:06.521Z"
     }
   ]
 }
