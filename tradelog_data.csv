@@ -69,3 +69,4 @@ Enough signs of turning see picture",,sma150|ema820|trendline|mtmom|ststoc,,true
 25,EURJPY,D1,MT4,2026-05-08,May 2026,BUY,CLOSED,,10.99,,6,,,,Closed - Rubber band into resistance second thoughts on entry,sma150|snr|ststoc|candle|volextreme|rubberband,,false,false,1778223043931
 26,AUDUSD,D1,MT4,2026-05-07,May 2026,BUY,SL,,-50,YES,6,Daily Strat,Ascending wedge line break to the upside,"DXY - Burned All, Also many reasons to go short from a diverging top",,sma150|sma50|ema820|trendline|mtmom,1,false,false,1778223538594
 27,AUDJPY,D1,MT4,2026-05-12,May 2026,BUY,,,,,8,,,,,sma150|sma50|ema820|killzone|trendline|snr|ststoc|volextreme,,false,false,1778557677963
+28,TRXUSDT,H4,TradingView,2026-05-13,May 2026,BUY,,,,YES,11,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|snr|wave-count|reload,,false,false,1779083691781
