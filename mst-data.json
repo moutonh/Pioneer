@@ -1,3 +1,13 @@
 {
-  "symbols": []
+  "symbols": [
+    {
+      "id": "sym_1779094689565",
+      "name": "BTCUSDT",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null
+    }
+  ]
 }
