@@ -58,9 +58,9 @@ From Kill zone
 Strong PA candle
 Which broke 3 touch support
 Volume climax- indicating support",Too big position on EUR - Already long EURUSD - Must have move the STOP to BE then,,,,false,false,1777610153242
-20,USDJPY,D1,MT4,2026-05-05,May 2026,BUY,SL,,-50,NO,3,,"Rubber Band trade
+20,USDJPY,D1,MT4,2026-05-05,May 2026,BUY,SL,,-50,NO,3,Daily Strat,"Rubber Band trade
 -With 50SMA
--With 150SMA",Too few confirmations,,sma150|sma50|rubberband,,false,false,1778214556173
+-With 150SMA",Too few confirmations.. Do not enter on first pullback of sudden move.,,sma150|sma50|candle,,false,false,1778214556173
 21,GBPUSD,D1,MT4,2026-05-04,May 2026,BUY,CLOSED,SL,-0.02,YES,6,Daily Strat,,DXY - Burned All,Closed - MT_MOM change after price consolidation - Many other trades still open on the USD - decided to lighten the load on the USD positions.,ema820|killzone|trendline|snr|mtmom|volextreme,,false,false,1778220969703
 22,GOLD,D1,MT4,2026-05-08,May 2026,BUY,SL,,-50,YES,5,Daily Strat,,"DXY - Burned All
 Enough signs of turning see picture",,sma150|ema820|trendline|mtmom|ststoc,,true,false,1778221467677
