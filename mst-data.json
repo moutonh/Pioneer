@@ -44,6 +44,24 @@
       "structure": "",
       "watchFor": "",
       "updatedAt": "2026-05-19T04:18:26.775Z"
+    },
+    {
+      "id": "sym_1779164316828",
+      "name": "ETHUSDT",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": "2026-05-19T04:19:22.551Z"
+    },
+    {
+      "id": "sym_1779164418129",
+      "name": "SOLUSDT",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": "2026-05-19T04:20:19.911Z"
     }
   ]
 }
