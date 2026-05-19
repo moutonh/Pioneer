@@ -14,18 +14,18 @@
       "name": "BNBUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "",
+      "structure": "SFP\nDivergence on MT_STOC",
       "watchFor": "",
-      "updatedAt": "2026-05-19T04:10:53.446Z"
+      "updatedAt": "2026-05-19T04:11:10.296Z"
     },
     {
       "id": "sym_1779099275556",
       "name": "BRETTUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "Retrace to Fib level\nSFP",
+      "structure": "Retrace to Fib level\nSFP\n",
       "watchFor": "",
-      "updatedAt": "2026-05-18T10:15:03.746Z"
+      "updatedAt": "2026-05-19T04:12:24.916Z"
     },
     {
       "id": "sym_1779099463906",
