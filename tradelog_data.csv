@@ -75,4 +75,4 @@ Enough signs of turning see picture",,sma150|ema820|trendline|mtmom|ststoc,,true
 ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,false,1779178552478
 31,TRXUSDT,H4,TradingView,2026-05-19,May 2026,BUY,SL,,-50,NO,7,ST_Stoc RetWTrend,,,Rules div. The retrace was not so strong...,st-stoc-angle|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|wave-count,,false,false,1779178821661
 32,BRETTUSDT,H4,TradingView,2026-05-18,May 2026,BUY,,,,YES,9,ST_Stoc RetWTrend,Retrace back into FibGold zone,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|sma150-angle|snr|wave-count|fib|rubberband,,false,false,1779179195891
-33,BNBUSDT,H4,TradingView,2026-05-19,May 2026,BUY,SL,,,YES,6,Swing Failure Pattern,S/R swop,,,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,1,false,false,1779179377199
+33,BNBUSDT,H4,TradingView,2026-05-19,May 2026,BUY,SL,,-50,YES,6,Swing Failure Pattern,S/R swop,,,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,1,false,false,1779179377199
