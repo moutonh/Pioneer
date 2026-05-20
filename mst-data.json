@@ -32,9 +32,9 @@
       "name": "TRXUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "",
-      "watchFor": "",
-      "updatedAt": "2026-05-20T05:04:08.944Z"
+      "structure": "Compression",
+      "watchFor": "Wait for a pull back on ST__STOC",
+      "updatedAt": "2026-05-20T05:04:51.089Z"
     },
     {
       "id": "sym_1779099512133",
@@ -43,7 +43,7 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-05-19T04:18:26.775Z"
+      "updatedAt": "2026-05-20T05:07:30.624Z"
     },
     {
       "id": "sym_1779164316828",
