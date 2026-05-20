@@ -5,9 +5,9 @@
       "name": "BTCUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_MOM Still down\nWait for the turn",
+      "structure": "ST_MOM - Break\nMT_MOM - Turn\n150SMA - Rubber band",
       "watchFor": "",
-      "updatedAt": "2026-05-20T04:45:56.038Z"
+      "updatedAt": "2026-05-20T04:46:39.948Z"
     },
     {
       "id": "sym_1779095081442",
@@ -16,7 +16,7 @@
       "mindmap": "",
       "structure": "SFP\nDivergence on MT_STOC",
       "watchFor": "",
-      "updatedAt": "2026-05-19T04:11:10.296Z"
+      "updatedAt": "2026-05-20T04:53:52.984Z"
     },
     {
       "id": "sym_1779099275556",
