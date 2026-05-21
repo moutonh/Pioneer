@@ -23,9 +23,9 @@
       "name": "BRETTUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_MOM - UP\nST_MOM - broke UP",
+      "structure": "MT_MOM & MT_STOC strong",
       "watchFor": "",
-      "updatedAt": "2026-05-21T04:45:09.016Z"
+      "updatedAt": "2026-05-21T04:45:22.121Z"
     },
     {
       "id": "sym_1779099463906",
@@ -34,7 +34,7 @@
       "mindmap": "",
       "structure": "Compression",
       "watchFor": "Wait for a pull back on ST__STOC",
-      "updatedAt": "2026-05-20T05:04:51.089Z"
+      "updatedAt": "2026-05-21T04:46:12.367Z"
     },
     {
       "id": "sym_1779099512133",
