@@ -79,3 +79,4 @@ ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,fals
 34,EURJPY,D1,MT4,2026-05-20,May 2026,SELL,CLOSED,,-21,YES,7,Daily Strat,,,*CALC.- Create a BUY STOP option,sma50|ema820|killzone|trendline|snr|mtmom|candle,,true,false,1779251193709
 35,US30,D1,MT4,2026-05-21,May 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|sma50|ema820|killzone|snr|mtmom|volextreme|reload,,false,false,1779336899867
 36,SOLUSD,D1,MT4,2026-05-21,May 2026,BUY,,,,,6,Daily Strat,Descending triangle into support - The breakout of formation,,,sma50|trendline|snr|ststoc|volextreme,1,false,false,1779337130268
+37,GBPJPY,D1,MT4,2026-05-21,May 2026,BUY,,,,,5,Daily Strat,Compression with Cup & Handle,,,sma150|sma50|snr|candle|reload,,false,false,1779337407682
