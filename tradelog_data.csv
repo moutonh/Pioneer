@@ -81,6 +81,3 @@ ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,fals
 36,SOLUSD,D1,MT4,2026-05-21,May 2026,BUY,,,,,6,Daily Strat,Descending triangle into support - The breakout of formation,,,sma50|trendline|snr|ststoc|volextreme,1,false,false,1779337130268
 37,GBPJPY,D1,MT4,2026-05-21,May 2026,BUY,,,,,6,Daily Strat,Compression with Cup & Handle,,,sma150|sma50|snr|candle|reload,1,false,false,1779337407682
 38,BRENT,D1,MT4,2026-05-21,May 2026,SELL,,,,YES,6,Daily Strat,Strong Topping pattern - after 5 touches,,,ema820|trendline|snr|mtmom|ststoc|volextreme,,false,false,1779337868283
-39,PEPEUSDT,H4,TradingView,2026-05-22,May 2026,SELL,,,,YES,1,MOM Trend Reversal,,,,mtr-st-stoc-hook,,false,false,1779434126777
-40,USDCHF,D1,MT4,2026-05-22,May 2026,SELL,,,,,1,Daily Strat,,,,sma150,,false,false,1779434189730
-41,COPPER,D1,MT4,2026-05-22,May 2026,BUY,,,,,1,Daily Strat,,,,sma150,,false,false,1779434440475
