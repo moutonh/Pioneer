@@ -5,9 +5,9 @@
       "name": "BTCUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_MOM & MT_STOC too strong \nST_STOC therefore not considered",
-      "watchFor": "Wait for MT_STOC turn",
-      "updatedAt": "2026-05-22T04:49:12.441Z"
+      "structure": "MT_STOC turned \nThe rest is all UP  ",
+      "watchFor": "Wait for ST_MOM and ST_SToc",
+      "updatedAt": "2026-05-22T04:49:58.554Z"
     },
     {
       "id": "sym_1779095081442",
@@ -16,7 +16,7 @@
       "mindmap": "",
       "structure": "MT_STOC & MOM too strong",
       "watchFor": "Wait for MT_STOC to turn",
-      "updatedAt": "2026-05-21T04:38:27.549Z"
+      "updatedAt": "2026-05-22T04:55:20.382Z"
     },
     {
       "id": "sym_1779099275556",
