@@ -7,8 +7,8 @@
       "mindmap": "",
       "structure": "STOP ALL trend trades",
       "watchFor": "WAIT for break break of swing ",
-      "updatedAt": "2026-05-25T09:33:15.388Z",
-      "isHot": true
+      "updatedAt": "2026-05-25T09:33:19.443Z",
+      "isHot": false
     },
     {
       "id": "sym_1779095081442",
@@ -71,7 +71,8 @@
       "mindmap": "",
       "structure": "Strong support ??\nNot sure to enter...",
       "watchFor": "",
-      "updatedAt": "2026-05-25T08:53:15.317Z"
+      "updatedAt": "2026-05-25T09:34:11.555Z",
+      "isHot": true
     }
   ]
 }
