@@ -5,9 +5,9 @@
       "name": "BTCUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_STOC turned \nThe rest is all UP  ",
-      "watchFor": "Wait for ST_MOM and ST_SToc",
-      "updatedAt": "2026-05-25T08:30:26.038Z"
+      "structure": "STOP ALL trend trades",
+      "watchFor": "WAIT for break break of swing ",
+      "updatedAt": "2026-05-25T08:31:20.378Z"
     },
     {
       "id": "sym_1779095081442",
@@ -16,7 +16,7 @@
       "mindmap": "",
       "structure": "MT_STOC turned\nFirst MT_Stoc swing",
       "watchFor": "Wait for conirmations",
-      "updatedAt": "2026-05-22T04:55:52.384Z"
+      "updatedAt": "2026-05-25T08:32:58.771Z"
     },
     {
       "id": "sym_1779099275556",
