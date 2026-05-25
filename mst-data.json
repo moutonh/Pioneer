@@ -74,6 +74,17 @@
       "watchFor": "",
       "updatedAt": "2026-05-25T09:34:11.555Z",
       "isHot": true
+    },
+    {
+      "id": "sym_1779701796000",
+      "name": "DXYUSD",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": "2026-05-25T09:36:38.235Z",
+      "priority": 9,
+      "isHot": false
     }
   ]
 }
