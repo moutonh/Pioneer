@@ -74,7 +74,7 @@ Enough signs of turning see picture",,sma150|ema820|trendline|mtmom|ststoc,,true
 30,AUDJPY,D1,MT4,2026-05-19,May 2026,SELL,CLOSED,,-40,YES,8,Daily Strat,"MT_Mom Divergence
 ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,false,1779178552478
 31,TRXUSDT,H4,TradingView,2026-05-19,May 2026,BUY,SL,,-50,NO,7,ST_Stoc RetWTrend,,,Rules div. The retrace was not so strong...,st-stoc-angle|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|wave-count,,false,false,1779178821661
-32,BRETTUSDT,H4,TradingView,2026-05-18,May 2026,BUY,SL,,-50,NO,9,ST_Stoc RetWTrend,Retrace back into FibGold zone,The MT_MOM Was already broken downward canceling any possible long trades,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|sma150-angle|snr|wave-count|fib|rubberband,,false,false,1779179195891
+32,BRETTUSDT,H4,TradingView,2026-05-18,May 2026,BUY,SL,,-50,NO,0,ST_Stoc RetWTrend,Retrace back into FibGold zone,The MT_MOM Was already broken downward canceling any possible long trades,,,,false,false,1779179195891
 33,BNBUSDT,H4,TradingView,2026-05-19,May 2026,BUY,SL,,-50,NO,6,Swing Failure Pattern,S/R swop,Forcing the entry - Although the MA's did not suggest a strong trend the LH and LL and MT_MOM indicated a strong down trend that could cause problems,*Suggestion- Wait or ST_MOM at least to break up,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,1,false,false,1779179377199
 34,EURJPY,D1,MT4,2026-05-20,May 2026,SELL,CLOSED,,-21,YES,7,Daily Strat,,,*CALC.- Create a BUY STOP option,sma50|ema820|killzone|trendline|snr|mtmom|candle,,true,false,1779251193709
 35,US30,D1,MT4,2026-05-21,May 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|sma50|ema820|killzone|snr|mtmom|volextreme|reload,,false,false,1779336899867
