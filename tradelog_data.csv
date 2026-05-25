@@ -85,4 +85,4 @@ ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,fals
 40,USDCHF,D1,MT4,2026-05-22,May 2026,SELL,,,,YES,8,Daily Strat,,,,sma150|sma50|ema820|trendline|snr|ststoc|candle|volextreme,,false,false,1779696659037
 41,SOLUSD,D1,MT4,2026-05-24,May 2026,BUY,,,,,3,Daily Strat,Descending triangle break from supply zone,,,trendline|snr|candle,,false,false,1779697043267
 42,PEPEUSDT,H4,TradingView,2026-05-25,May 2026,SELL,TP,,125,YES,9,ST_Stoc RetWTrend,First MT_STOC  Cycle after MT_MOM turn,,,st-stoc-hook|st-stoc-angle|mt-stoc-angle|st-mom-angle|sma50-angle|sma150-angle|wave-count|reload,1,false,false,1779698670807
-43,BTCUSD,D1,MT4,2026-05-25,May 2026,BUY,,,,YES,6,Daily Strat,,,,sma50|trendline|snr|candle|volextreme|reload,,false,false,1779702571098
+43,BTCUSD,D1,MT4,2026-05-25,May 2026,BUY,,,,YES,8,Daily Strat,USDT.D strong Break down With Stoc topping formation & BTC.D formation to break up. Considering current SOL open pos,,,sma50|trendline|snr|candle|volextreme|reload,2,false,false,1779702571098
