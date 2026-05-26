@@ -15,9 +15,10 @@
       "name": "BNBUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "SAME AS BTC",
-      "watchFor": "WAIT for breakout",
-      "updatedAt": "2026-05-26T04:35:05.429Z"
+      "structure": "BROKE HIGHer",
+      "watchFor": "Wait for trigger",
+      "updatedAt": "2026-05-26T04:35:26.902Z",
+      "isHot": true
     },
     {
       "id": "sym_1779099275556",
@@ -26,7 +27,7 @@
       "mindmap": "",
       "structure": "MT_MOM & MT_STOC strong",
       "watchFor": "",
-      "updatedAt": "2026-05-25T08:40:43.360Z"
+      "updatedAt": "2026-05-26T04:37:47.209Z"
     },
     {
       "id": "sym_1779099463906",
