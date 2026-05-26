@@ -5,9 +5,9 @@
       "name": "BTCUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "STOP ALL trend trades",
+      "structure": "\nSTOP ALL trend trades",
       "watchFor": "WAIT for break break of swing ",
-      "updatedAt": "2026-05-26T04:30:50.782Z",
+      "updatedAt": "2026-05-26T04:51:14.023Z",
       "isHot": false
     },
     {
@@ -16,8 +16,8 @@
       "chartData": "",
       "mindmap": "",
       "structure": "BROKE HIGHer",
-      "watchFor": "Wait for trigger",
-      "updatedAt": "2026-05-26T04:35:26.902Z",
+      "watchFor": "Wait for trigger - UPWards",
+      "updatedAt": "2026-05-26T04:50:35.088Z",
       "isHot": true
     },
     {
@@ -43,9 +43,9 @@
       "name": "PEPEUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "Big divergence\nMisseden",
+      "structure": "Big divergence\nMissed entry",
       "watchFor": "",
-      "updatedAt": "2026-05-26T04:50:14.050Z"
+      "updatedAt": "2026-05-26T04:50:16.903Z"
     },
     {
       "id": "sym_1779164316828",
