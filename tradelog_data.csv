@@ -35,7 +35,7 @@ With 8&21 EMA
 Volume level
 Strong PA candle
 From Resistance level",,Closed - fake out candle structure - potential to take out stop - wait for more information to proceed,,,false,false,1777438772363
-16,BTCUSD,D1,MT4,2026-04-28,Apr 2026,SELL,CLOSED,,-20.02,YES,,,"Volume resistance
+16,BTCUSD,D1,MT4,2026-04-28,Apr 2026,SELL,CLOSED,SL,-20.02,YES,0,,"Volume resistance
 OB rejection candle 
 Trend line break against 21EMA
 ST_MOM Structure break
