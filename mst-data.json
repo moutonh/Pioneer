@@ -25,18 +25,18 @@
       "name": "BRETTUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_MOM & MT_STOC strong",
-      "watchFor": "",
-      "updatedAt": "2026-06-01T04:59:22.703Z"
+      "structure": "MT_MOM = Break UP\n",
+      "watchFor": "Wait for MT_STOC retrace",
+      "updatedAt": "2026-06-01T04:59:53.613Z"
     },
     {
       "id": "sym_1779099463906",
       "name": "TRXUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "Miss trade yesterday @ 10:00",
+      "structure": "DOWN",
       "watchFor": " ",
-      "updatedAt": "2026-05-27T05:11:07.508Z"
+      "updatedAt": "2026-06-01T05:01:59.042Z"
     },
     {
       "id": "sym_1779099512133",
