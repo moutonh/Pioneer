@@ -17,8 +17,8 @@
       "mindmap": "",
       "structure": "Entered ",
       "watchFor": "Wait for trigger - MT_STOC",
-      "updatedAt": "2026-06-03T05:06:35.667Z",
-      "isHot": true
+      "updatedAt": "2026-06-03T05:09:03.724Z",
+      "isHot": false
     },
     {
       "id": "sym_1779099275556",
@@ -26,8 +26,9 @@
       "chartData": "",
       "mindmap": "",
       "structure": "MT_MOM = Break UP\n",
-      "watchFor": "Wait for MT_STOC retrace",
-      "updatedAt": "2026-06-03T05:08:45.330Z"
+      "watchFor": "Enter on next close",
+      "updatedAt": "2026-06-03T05:09:02.152Z",
+      "isHot": true
     },
     {
       "id": "sym_1779099463906",
@@ -36,7 +37,7 @@
       "mindmap": "",
       "structure": "DOWN trend",
       "watchFor": " Wait ",
-      "updatedAt": "2026-06-01T05:02:06.004Z"
+      "updatedAt": "2026-06-03T05:09:52.938Z"
     },
     {
       "id": "sym_1779099512133",
@@ -45,7 +46,7 @@
       "mindmap": "",
       "structure": "Momentum is UP but\nAll trends ",
       "watchFor": "",
-      "updatedAt": "2026-05-27T05:13:41.389Z"
+      "updatedAt": "2026-06-03T05:10:53.099Z"
     },
     {
       "id": "sym_1779164316828",
@@ -54,7 +55,7 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-05-26T04:42:09.371Z"
+      "updatedAt": "2026-06-03T05:12:05.517Z"
     },
     {
       "id": "sym_1779164418129",
@@ -63,7 +64,7 @@
       "mindmap": "",
       "structure": "Strong Divergence\nMiss trade entry",
       "watchFor": "",
-      "updatedAt": "2026-05-26T04:49:30.920Z",
+      "updatedAt": "2026-06-03T05:12:51.820Z",
       "isHot": false
     },
     {
@@ -72,8 +73,8 @@
       "chartData": "",
       "mindmap": "",
       "structure": "Down trend confirmed\n\nMT_MOM & MT_Stoc too strong",
-      "watchFor": "WAIT for breakout ",
-      "updatedAt": "2026-05-26T04:47:55.842Z",
+      "watchFor": "Enter ",
+      "updatedAt": "2026-06-03T05:14:21.321Z",
       "isHot": false
     },
     {
