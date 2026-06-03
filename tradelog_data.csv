@@ -90,3 +90,5 @@ ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,fals
 45,AUDJPY,D1,MT4,2026-05-27,May 2026,BUY,CLOSED,,68,YES,6,Daily Strat,,,,sma150|sma50|ema820|killzone|snr|candle,,false,false,1780291692759
 46,GOLD,D1,MT4,2026-06-03,Jun 2026,SELL,,,,,9,Daily Strat,"DXY - turning UP
 10YR - Turning up",,,sma50|ema820|killzone|trendline|snr|mtmom|candle,2,false,false,1780462493631
+47,USDCHF,D1,MT4,2026-06-03,Jun 2026,BUY,,,,,6,Daily Strat,"DXY - Turning UP
+10YR - Yeild Turning UP",,,ema820|killzone|trendline|snr|mtmom|candle,,false,false,1780462629631
