@@ -92,3 +92,5 @@ ST_Mom Divergence",,,ema820|killzone|trendline|snr|mtmom|volextreme,2,false,fals
 10YR - Turning up",,,sma50|ema820|killzone|trendline|snr|mtmom|candle,2,false,false,1780462493631
 47,USDCHF,D1,MT4,2026-06-03,Jun 2026,BUY,,,,,6,Daily Strat,"DXY - Turning UP
 10YR - Yeild Turning UP",,,ema820|killzone|trendline|snr|mtmom|candle,,false,false,1780462629631
+48,TONUSDT,H4,TradingView,2026-06-03,Jun 2026,BUY,SL,,-50,YES,7,ST_Stoc RetWTrend,,"Against BTC and DXY
+Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-trending|sma50-angle|snr,,false,false,1780549164091
