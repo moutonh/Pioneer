@@ -25,9 +25,9 @@
       "name": "BRETTUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "MT_MOM = Break UP\n",
-      "watchFor": "Enter on next close",
-      "updatedAt": "2026-06-04T04:44:21.876Z",
+      "structure": "MT_MOM STILL UP\n",
+      "watchFor": "Wait or MOM",
+      "updatedAt": "2026-06-04T04:44:42.625Z",
       "isHot": true
     },
     {
@@ -37,7 +37,7 @@
       "mindmap": "",
       "structure": "DOWN trend",
       "watchFor": " Wait ",
-      "updatedAt": "2026-06-03T05:09:52.938Z"
+      "updatedAt": "2026-06-04T04:48:24.038Z"
     },
     {
       "id": "sym_1779099512133",
