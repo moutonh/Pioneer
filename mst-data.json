@@ -8,7 +8,8 @@
       "structure": "\nSTOP ALL trend trades",
       "watchFor": "WAIT for break break of swing ",
       "updatedAt": "2026-06-04T04:38:07.211Z",
-      "isHot": false
+      "isHot": false,
+      "priority": 1
     },
     {
       "id": "sym_1779095081442",
@@ -18,7 +19,8 @@
       "structure": "Entered ",
       "watchFor": "Wait for trigger - MT_STOC",
       "updatedAt": "2026-06-04T04:41:02.289Z",
-      "isHot": false
+      "isHot": false,
+      "priority": 2
     },
     {
       "id": "sym_1779099275556",
@@ -28,7 +30,8 @@
       "structure": "MT_MOM STILL UP\n",
       "watchFor": "Wait or MOM",
       "updatedAt": "2026-06-04T04:44:42.625Z",
-      "isHot": true
+      "isHot": true,
+      "priority": 3
     },
     {
       "id": "sym_1779099463906",
@@ -37,7 +40,8 @@
       "mindmap": "",
       "structure": "DOWN trend",
       "watchFor": " Wait ",
-      "updatedAt": "2026-06-04T04:48:24.038Z"
+      "updatedAt": "2026-06-04T04:48:24.038Z",
+      "priority": 4
     },
     {
       "id": "sym_1779099512133",
@@ -46,7 +50,8 @@
       "mindmap": "",
       "structure": "Momentum is UP but\nAll trends ",
       "watchFor": "",
-      "updatedAt": "2026-06-04T04:51:38.479Z"
+      "updatedAt": "2026-06-04T04:51:38.479Z",
+      "priority": 5
     },
     {
       "id": "sym_1779164316828",
@@ -55,7 +60,8 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-06-04T04:52:39.330Z"
+      "updatedAt": "2026-06-04T04:52:39.330Z",
+      "priority": 6
     },
     {
       "id": "sym_1779164418129",
@@ -65,7 +71,8 @@
       "structure": "Strong Divergence\nMiss trade entry",
       "watchFor": "",
       "updatedAt": "2026-06-04T04:53:09.229Z",
-      "isHot": false
+      "isHot": false,
+      "priority": 7
     },
     {
       "id": "sym_1779254198541",
@@ -75,7 +82,8 @@
       "structure": "Down trend confirmed\n\nMT_MOM & MT_Stoc too strong",
       "watchFor": "Enter on ",
       "updatedAt": "2026-06-04T04:54:00.608Z",
-      "isHot": false
+      "isHot": false,
+      "priority": 8
     },
     {
       "id": "sym_1779701796000",
