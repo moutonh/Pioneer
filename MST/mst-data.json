@@ -7,10 +7,13 @@
       "mindmap": "",
       "structure": "\nSTOP ALL trend trades",
       "watchFor": "WAIT for break break of swing ",
-      "updatedAt": 1781077816406,
+      "updatedAt": 1781078200300,
       "isHot": false,
       "priority": 11,
-      "marketState": "momrev-down"
+      "marketStates": [
+        "momrev-down",
+        "trendcont-up"
+      ]
     },
     {
       "id": "sym_1779095081442",
