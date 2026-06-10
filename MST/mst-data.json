@@ -131,6 +131,17 @@
       "updatedAt": "2026-06-10T05:00:55.760Z",
       "priority": 4,
       "isHot": false
+    },
+    {
+      "id": "sym_1781067671489",
+      "name": "SPX",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 13,
+      "isHot": false
     }
   ]
 }
