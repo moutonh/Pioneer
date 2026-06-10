@@ -86,9 +86,12 @@
       "mindmap": "",
       "structure": "Down trend confirmed\n\nMT_MOM & MT_Stoc too strong",
       "watchFor": "Enter on ",
-      "updatedAt": "2026-06-10T05:21:54.001Z",
+      "updatedAt": 1781078227821,
       "isHot": false,
-      "priority": 23
+      "priority": 23,
+      "marketStates": [
+        "trendcont-down"
+      ]
     },
     {
       "id": "sym_1781065538676",
