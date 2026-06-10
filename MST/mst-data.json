@@ -120,17 +120,6 @@
       "updatedAt": null,
       "priority": 1,
       "isHot": false
-    },
-    {
-      "id": "sym_1781063897495",
-      "name": "QWE",
-      "chartData": "",
-      "mindmap": "",
-      "structure": "",
-      "watchFor": "",
-      "updatedAt": null,
-      "priority": 9,
-      "isHot": false
     }
   ]
 }
