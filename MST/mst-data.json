@@ -66,10 +66,10 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": 1781077986045,
+      "updatedAt": 1781078214662,
       "priority": 12,
       "isHot": false,
-      "marketState": "trendcont-up"
+      "marketStates": []
     },
     {
       "id": "sym_1779164418129",
