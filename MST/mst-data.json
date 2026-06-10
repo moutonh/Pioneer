@@ -107,9 +107,10 @@
       "mindmap": "",
       "structure": "Might go a bit up before down",
       "watchFor": "",
-      "updatedAt": "2026-06-10T04:49:44.472Z",
+      "updatedAt": 1781077498102,
       "priority": 1,
-      "isHot": false
+      "isHot": false,
+      "marketState": "up"
     },
     {
       "id": "sym_1781066145066",
