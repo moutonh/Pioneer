@@ -120,6 +120,17 @@
       "updatedAt": null,
       "priority": 3,
       "isHot": false
+    },
+    {
+      "id": "sym_1781066310085",
+      "name": "VIX",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 12,
+      "isHot": false
     }
   ]
 }
