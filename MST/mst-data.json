@@ -20,7 +20,7 @@
       "watchFor": "Wait for trigger - MT_STOC",
       "updatedAt": "2026-06-08T05:20:25.826Z",
       "isHot": false,
-      "priority": 2
+      "priority": 5
     },
     {
       "id": "sym_1779099275556",
@@ -118,7 +118,7 @@
       "structure": "",
       "watchFor": "",
       "updatedAt": null,
-      "priority": 1,
+      "priority": 3,
       "isHot": false
     },
     {
@@ -129,7 +129,18 @@
       "structure": "",
       "watchFor": "",
       "updatedAt": null,
-      "priority": 12,
+      "priority": 3,
+      "isHot": false
+    },
+    {
+      "id": "sym_1781065548346",
+      "name": "10YR",
+      "chartData": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 1,
       "isHot": false
     }
   ]
