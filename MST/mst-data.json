@@ -89,39 +89,6 @@
       "priority": 8
     },
     {
-      "id": "sym_1779701796000",
-      "name": "DXYUSD",
-      "chartData": "",
-      "mindmap": "",
-      "structure": "The ",
-      "watchFor": "",
-      "updatedAt": "2026-06-09T04:54:52.577Z",
-      "priority": 2,
-      "isHot": false
-    },
-    {
-      "id": "sym_1781004751505",
-      "name": "SFSDF",
-      "chartData": "",
-      "mindmap": "",
-      "structure": "",
-      "watchFor": "",
-      "updatedAt": "2026-06-09T11:56:50.345Z",
-      "priority": 2,
-      "isHot": false
-    },
-    {
-      "id": "sym_1781006367675",
-      "name": "USDT.D",
-      "chartData": "",
-      "mindmap": "",
-      "structure": "",
-      "watchFor": "",
-      "updatedAt": null,
-      "priority": 3,
-      "isHot": false
-    },
-    {
       "id": "sym_1781065538676",
       "name": "DXY",
       "chartData": "",
