@@ -63,9 +63,10 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-06-10T05:16:01.326Z",
+      "updatedAt": 1781077613938,
       "priority": 12,
-      "isHot": false
+      "isHot": false,
+      "marketState": "momrev-up"
     },
     {
       "id": "sym_1779164418129",
