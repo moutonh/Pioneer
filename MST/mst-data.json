@@ -56,9 +56,12 @@
       "mindmap": "",
       "structure": "Not eager to take a trade here",
       "watchFor": "",
-      "updatedAt": "2026-06-11T04:30:04.146Z",
+      "updatedAt": 1781152287570,
       "priority": 25,
-      "isHot": false
+      "isHot": false,
+      "marketStates": [
+        "momrev-up"
+      ]
     },
     {
       "id": "sym_1779164316828",
