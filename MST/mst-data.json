@@ -78,9 +78,12 @@
       "mindmap": "",
       "structure": "Strong Divergence\nMiss trade entry",
       "watchFor": "",
-      "updatedAt": "2026-06-11T04:26:14.204Z",
+      "updatedAt": 1781151984065,
       "isHot": false,
-      "priority": 22
+      "priority": 22,
+      "marketStates": [
+        "momrev-up"
+      ]
     },
     {
       "id": "sym_1779254198541",
