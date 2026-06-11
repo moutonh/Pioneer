@@ -136,10 +136,12 @@
       "mindmap": "",
       "structure": "Strong momentum loss to the upside",
       "watchFor": "",
-      "updatedAt": "2026-06-11T04:02:45.755Z",
+      "updatedAt": 1781153240878,
       "priority": 5,
       "isHot": false,
-      "marketState": "up"
+      "marketStates": [
+        "down"
+      ]
     },
     {
       "id": "sym_1781066310085",
