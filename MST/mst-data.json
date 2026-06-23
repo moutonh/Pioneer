@@ -10,7 +10,8 @@
       "updatedAt": "2026-06-14T08:45:03.161Z",
       "isHot": false,
       "priority": 11,
-      "marketStates": []
+      "marketStates": [],
+      "chartData2": ""
     },
     {
       "id": "sym_1779095081442",
@@ -24,7 +25,8 @@
       "priority": 20,
       "marketStates": [
         "momrev-up"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1779099275556",
@@ -35,7 +37,8 @@
       "watchFor": " ",
       "updatedAt": "2026-06-11T04:31:19.888Z",
       "isHot": false,
-      "priority": 26
+      "priority": 26,
+      "chartData2": ""
     },
     {
       "id": "sym_1779099463906",
@@ -47,7 +50,8 @@
       "updatedAt": "2026-06-14T08:50:30.206Z",
       "priority": 21,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [],
+      "chartData2": ""
     },
     {
       "id": "sym_1779099512133",
@@ -61,7 +65,8 @@
       "isHot": false,
       "marketStates": [
         "momrev-up"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1779164316828",
@@ -73,7 +78,8 @@
       "updatedAt": "2026-06-14T08:46:26.543Z",
       "priority": 12,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [],
+      "chartData2": ""
     },
     {
       "id": "sym_1779164418129",
@@ -87,7 +93,8 @@
       "priority": 22,
       "marketStates": [
         "momrev-up"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1779254198541",
@@ -99,7 +106,8 @@
       "updatedAt": "2026-06-14T08:54:17.550Z",
       "isHot": false,
       "priority": 23,
-      "marketStates": []
+      "marketStates": [],
+      "chartData2": ""
     },
     {
       "id": "sym_1781065538676",
@@ -113,7 +121,8 @@
       "isHot": false,
       "marketStates": [
         "down"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1781065548346",
@@ -122,12 +131,13 @@
       "mindmap": "",
       "structure": "Might go a bit up before down",
       "watchFor": "",
-      "updatedAt": "2026-06-12T05:28:53.460Z",
+      "updatedAt": "2026-06-23T06:03:59.862Z",
       "priority": 1,
       "isHot": false,
       "marketStates": [
         "down"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1781066145066",
@@ -141,7 +151,8 @@
       "isHot": false,
       "marketStates": [
         "down"
-      ]
+      ],
+      "chartData2": ""
     },
     {
       "id": "sym_1781066310085",
@@ -153,7 +164,8 @@
       "updatedAt": "2026-06-12T05:34:27.096Z",
       "priority": 4,
       "isHot": false,
-      "marketState": "up"
+      "marketState": "up",
+      "chartData2": ""
     },
     {
       "id": "sym_1781067671489",
@@ -167,7 +179,8 @@
       "isHot": false,
       "marketStates": [
         "up"
-      ]
+      ],
+      "chartData2": ""
     }
   ]
 }
