@@ -86,11 +86,12 @@
       "mindmap": "",
       "structure": "Strong Divergence\nMiss trade entry",
       "watchFor": "",
-      "updatedAt": "2026-06-23T07:15:53.194Z",
+      "updatedAt": 1782199346656,
       "isHot": false,
       "priority": 22,
       "marketStates": [
-        "momrev-up"
+        "momrev-up",
+        "trendcont-up"
       ],
       "chartData2": ""
     },
