@@ -73,10 +73,12 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-06-23T07:09:47.757Z",
+      "updatedAt": 1782199415783,
       "priority": 12,
       "isHot": false,
-      "marketStates": [],
+      "marketStates": [
+        "trendcont-up"
+      ],
       "chartData2": ""
     },
     {
