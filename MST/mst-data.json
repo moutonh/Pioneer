@@ -47,10 +47,12 @@
       "mindmap": "",
       "structure": "DOWN trend",
       "watchFor": " Wait for MT_STOC",
-      "updatedAt": 1782282859064,
+      "updatedAt": 1782282870300,
       "priority": 21,
       "isHot": false,
-      "marketStates": [],
+      "marketStates": [
+        "trendcont-up"
+      ],
       "chartData2": ""
     },
     {
