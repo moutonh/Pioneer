@@ -20,10 +20,12 @@
       "mindmap": "",
       "structure": "Entered ",
       "watchFor": "Wait for trigger - MT_STOC",
-      "updatedAt": "2026-06-24T06:33:13.295Z",
+      "updatedAt": 1782282795445,
       "isHot": false,
       "priority": 20,
-      "marketStates": [],
+      "marketStates": [
+        "trendcont-down"
+      ],
       "chartData2": ""
     },
     {
