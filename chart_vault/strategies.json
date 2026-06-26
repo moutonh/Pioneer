@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-06-26T11:15:59.299Z",
+  "strategies": {
+    "Daily Strat": {
+      "description": "",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "ST_StocRetWTrend": {
+      "description": "",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "Swing Failure Pattern": {
+      "description": "",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "MT_MOM Reversal": {
+      "description": "",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "TOPDOG with MT_MOM": {
+      "description": "",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "Daily - PA": {
+      "description": "Pin Bar Structures\nWith 8EMA\nRejection of R/S levels",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    }
+  }
+}
