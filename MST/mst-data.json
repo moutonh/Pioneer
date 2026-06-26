@@ -183,6 +183,20 @@
         "up"
       ],
       "chartData2": ""
+    },
+    {
+      "id": "sym_1782460872607",
+      "name": "AVAXUSDT",
+      "chartData": "",
+      "chartData2": "",
+      "caption1": "",
+      "caption2": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 14,
+      "isHot": false
     }
   ]
 }
