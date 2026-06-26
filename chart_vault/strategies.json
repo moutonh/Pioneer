@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:15:59.299Z",
+  "updatedAt": "2026-06-26T11:18:59.815Z",
   "strategies": {
     "Daily Strat": {
       "description": "",
@@ -38,6 +38,13 @@
     },
     "Daily - PA": {
       "description": "Pin Bar Structures\nWith 8EMA\nRejection of R/S levels",
+      "pdf_base64": null,
+      "pdf_name": null,
+      "ntz_pdf_base64": null,
+      "ntz_pdf_name": null
+    },
+    "Daily Stoc - Second chance": {
+      "description": "On Stoc Second chance pattern\nWith at least one of the following:\n- With trend 21EMA or 50SMA\n- With MT_MOM\n- With MT_MOM divergence",
       "pdf_base64": null,
       "pdf_name": null,
       "ntz_pdf_base64": null,
