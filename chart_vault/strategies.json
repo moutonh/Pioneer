@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:18:59.815Z",
+  "updatedAt": "2026-06-26T11:26:56.094Z",
   "strategies": {
     "Daily Strat": {
       "description": "",
@@ -44,7 +44,7 @@
       "ntz_pdf_name": null
     },
     "Daily Stoc - Second chance": {
-      "description": "On Stoc Second chance pattern\nWith at least one of the following:\n- With trend 21EMA or 50SMA\n- With MT_MOM\n- With MT_MOM divergence",
+      "description": "On Stoc Second chance pattern\nWith at least one of the following:\n\n-if Price extreme (Close outide BB / distance from 21EMa = 2ATR)\n-if not price extreme\n *With trend 21EMA or 50SMA or\n *With MT_MOM or\n *With MT_MOM divergence",
       "pdf_base64": null,
       "pdf_name": null,
       "ntz_pdf_base64": null,
