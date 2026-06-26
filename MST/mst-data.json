@@ -161,11 +161,13 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-06-26T06:52:03.614Z",
+      "updatedAt": 1782457082964,
       "priority": 4,
       "isHot": false,
-      "marketState": "up",
-      "chartData2": ""
+      "chartData2": "",
+      "marketStates": [
+        "down"
+      ]
     },
     {
       "id": "sym_1781067671489",
