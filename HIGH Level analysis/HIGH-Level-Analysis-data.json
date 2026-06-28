@@ -51,7 +51,14 @@
     {
       "id": "id_1782663400449_gjmdyd6el",
       "title": "BTC.D",
-      "subheadings": []
+      "subheadings": [
+        {
+          "id": "id_1782663409280_3nhq5tfpf",
+          "title": "28.6.2026",
+          "description": "",
+          "links": []
+        }
+      ]
     }
   ]
 }
