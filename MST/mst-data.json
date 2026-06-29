@@ -35,10 +35,13 @@
       "mindmap": "",
       "structure": "Stay out",
       "watchFor": " ",
-      "updatedAt": "2026-06-29T07:40:08.898Z",
+      "updatedAt": 1782718960401,
       "isHot": false,
       "priority": 26,
-      "chartData2": ""
+      "chartData2": "",
+      "marketStates": [
+        "trendcont-down"
+      ]
     },
     {
       "id": "sym_1779099463906",
