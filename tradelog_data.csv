@@ -101,3 +101,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 53,PEPEUSDT,H4,TradingView,2026-06-11,Jun 2026,BUY,CLOSED,,50,YES,8,MOM Trend Reversal,,,Closed - 1) Reload pattern. 2)MT_STOC - Turn. 3) Trend line break.,mtr-st-stoc-hook|mtr-st-stoc-angle|mtr-st-stoc-pattern|mtr-mt-stoc-angle|mtr-st-mom-angle|mtr-mt-mom-angle|mtr-trendline|mtr-snr,,false,false,1781270135370
 54,AUDUSD,D1,MT4,2026-06-12,Jun 2026,BUY,SL,,-50,YES,7,Daily Strat,,,,sma150|sma50|ststoc|candle|volextreme|rubberband|reload,,false,false,1781270258170
 55,ETHUSD,D1,MT4,2026-06-22,Jun 2026,SELL,TP,,100,,0,Daily Strat,,,,,,false,false,1782323688970
+56,BRETTUSDT,H4,TradingView,2026-06-29,Jun 2026,SELL,CLOSED,SL,-25,YES,7,ST_Stoc RetWTrend,First cycle swing of MT_MOM,Missed the entry - Entry was too late,Closed - Choppy,st-stoc-angle|st-mom-angle|sma50-angle|sma150-angle|trendline|wave-count,1,false,false,1782802901368
