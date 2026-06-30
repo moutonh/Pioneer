@@ -97,7 +97,7 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 49,BRENT,D1,MT4,2026-06-09,Jun 2026,SELL,TP,,100,YES,6,Daily Strat,,,,sma50|ema820|killzone|mtmom|candle|volextreme,,false,false,1780979611193
 50,TONUSDT,H4,TradingView,2026-06-09,Jun 2026,SELL,TP,,150,YES,10,ST_Stoc RetWTrend,MT_STOC Pattern,,,mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-trending|sma50-angle|sma150-angle|trendline|snr|wave-count,1,false,false,1781152890946
 51,TRXUSDT,H4,TradingView,2026-06-09,Jun 2026,SELL,TP,,100,YES,10,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-trending|sma50-angle|sma150-angle|trendline|snr|wave-count,,false,false,1781242732004
-52,COPPER,D1,MT4,2026-06-10,Jun 2026,SELL,CLOSED,SL,-25,YES,4,Daily Strat,,,Closed on Strong reversal second chance pattern on ST_Stoc,ema820|trendline|snr|candle,,false,false,1781242831932
+52,COPPER,D1,MT4,2026-06-10,Jun 2026,SELL,CLOSED,SL,-25,YES,4,Daily Strat,,,Closed on Strong reversal second chance pattern on ST_Stoc,ema820|trendline|snr|candle,,true,false,1781242831932
 53,PEPEUSDT,H4,TradingView,2026-06-11,Jun 2026,BUY,CLOSED,,50,YES,8,MOM Trend Reversal,,,Closed - 1) Reload pattern. 2)MT_STOC - Turn. 3) Trend line break.,mtr-st-stoc-hook|mtr-st-stoc-angle|mtr-st-stoc-pattern|mtr-mt-stoc-angle|mtr-st-mom-angle|mtr-mt-mom-angle|mtr-trendline|mtr-snr,,false,false,1781270135370
 54,AUDUSD,D1,MT4,2026-06-12,Jun 2026,BUY,SL,,-50,YES,7,Daily Strat,,,,sma150|sma50|ststoc|candle|volextreme|rubberband|reload,,false,false,1781270258170
 55,ETHUSD,D1,MT4,2026-06-22,Jun 2026,SELL,TP,,100,YES,7,Daily Strat,,,,sma150|sma50|ema820|killzone|snr|candle|volextreme,,false,false,1782323688970
