@@ -103,3 +103,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 55,ETHUSD,D1,MT4,2026-06-22,Jun 2026,SELL,TP,,100,YES,7,Daily Strat,,,,sma150|sma50|ema820|killzone|snr|candle|volextreme,,false,false,1782323688970
 56,BRETTUSDT,H4,TradingView,2026-06-29,Jun 2026,SELL,CLOSED,SL,-25,YES,7,ST_Stoc RetWTrend,First cycle swing of MT_MOM,Missed the entry - Entry was too late,Closed - Choppy,st-stoc-angle|st-mom-angle|sma50-angle|sma150-angle|trendline|wave-count,1,false,false,1782802901368
 57,EURJPY,D1,MT4,2026-06-25,Jun 2026,BUY,TP,,100,YES,6,Daily Strat,MOM wave 3,,,sma150|snr|ststoc|candle|volextreme,1,false,false,1782803246065
+58,US500,D1,MT4,2026-06-30,Jun 2026,BUY,,,,,10,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|snr|ststoc|candle|volextreme|reload,,false,false,1782824478517
