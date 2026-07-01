@@ -182,9 +182,12 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-07-01T05:19:10.315Z",
+      "updatedAt": 1782883157772,
       "priority": 14,
-      "isHot": false
+      "isHot": false,
+      "marketStates": [
+        "trendcont-up"
+      ]
     }
   ]
 }
