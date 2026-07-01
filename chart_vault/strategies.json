@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:34:55.057Z",
+  "updatedAt": "2026-07-01T12:07:22.609Z",
   "strategies": {
     "Daily Strat": {
       "description": "",
@@ -36,15 +36,15 @@
       "ntz_pdf_base64": null,
       "ntz_pdf_name": null
     },
-    "Daily - PA": {
-      "description": "Pin Bar Structures\nWith 8EMA\nRejection of R/S levels",
+    "Daily Stoc - Second chance": {
+      "description": "On Stoc Second chance pattern\nWith at least one of the following:\n\n-if Price extreme (Close outide BB / distance from 21EMa = 2ATR)\n-if not price extreme\n *With trend 21EMA or 50SMA or\n *With MT_MOM or\n *With ST_MOM divergence",
       "pdf_base64": null,
       "pdf_name": null,
       "ntz_pdf_base64": null,
       "ntz_pdf_name": null
     },
-    "Daily Stoc - Second chance": {
-      "description": "On Stoc Second chance pattern\nWith at least one of the following:\n\n-if Price extreme (Close outide BB / distance from 21EMa = 2ATR)\n-if not price extreme\n *With trend 21EMA or 50SMA or\n *With MT_MOM or\n *With ST_MOM divergence",
+    "Daily LTTTM with trend": {
+      "description": "With:\n-8EMA\n-MT_MOM\n-NO Momentum exhaustion - except compression buildup and break\nEntry:\nPin bar or relative rejection",
       "pdf_base64": null,
       "pdf_name": null,
       "ntz_pdf_base64": null,
