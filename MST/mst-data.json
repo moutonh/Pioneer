@@ -78,12 +78,10 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-07-02T05:03:51.842Z",
+      "updatedAt": 1782969379776,
       "priority": 12,
       "isHot": false,
-      "marketStates": [
-        "momrev-up"
-      ],
+      "marketStates": [],
       "chartData2": ""
     },
     {
