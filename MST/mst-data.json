@@ -7,10 +7,12 @@
       "mindmap": "",
       "structure": "\nSTOP ALL trend trades",
       "watchFor": "WAIT for break break of swing ",
-      "updatedAt": "2026-07-03T06:32:33.351Z",
+      "updatedAt": 1783060368148,
       "isHot": false,
       "priority": 11,
-      "marketStates": [],
+      "marketStates": [
+        "momrev-up"
+      ],
       "chartData2": ""
     },
     {
