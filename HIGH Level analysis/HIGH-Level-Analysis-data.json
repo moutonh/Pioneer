@@ -87,7 +87,14 @@
     {
       "id": "id_1783267691054_rmiu315tv",
       "title": "ETHUSDT/Gold",
-      "subheadings": []
+      "subheadings": [
+        {
+          "id": "id_1783267706067_z2c3z1unm",
+          "title": "",
+          "description": "",
+          "links": []
+        }
+      ]
     }
   ]
 }
