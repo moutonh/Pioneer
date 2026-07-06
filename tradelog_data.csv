@@ -108,3 +108,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 60,BTCUSDT,H4,TradingView,2026-06-30,Jun 2026,SELL,CLOSED,SL,0,YES,14,ST_Stoc RetWTrend,,,,st-stoc-hook|st-stoc-angle|st-stoc-pattern|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|mt-mom-trending|sma50-angle|sma150-angle|trendline|snr|wave-count|reload,,false,false,1782824941526
 61,NAS100,H1,TradingView,2026-06-30,Jun 2026,SELL,SL,,-50,YES,8,MT_MOM & STOC,MOM extreme >7 waves,,,mms-mtmom-trigger|mms-not-against-ma|mms-mtstoc-pattern|mms-sl-not-wide|mms-trendline|mms-rubberband|mms-divergence,1,false,false,1782825047058
 62,SOLUSD,D1,MT4,2026-07-01,Jul 2026,BUY,TP,,100,,7,Daily Strat,,,,ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1783314981816
+63,SOLUSD,D1,MT4,2026-07-06,Jul 2026,SELL,,,,,6,Daily Strat,,,,sma150|sma50|snr|ststoc|candle|rubberband,,false,false,1783315159209
