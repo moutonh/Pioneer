@@ -113,3 +113,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 65,BNBUSDT,H4,TradingView,2026-07-02,Jul 2026,BUY,CLOSED,,35,YES,7,MOM Trend Reversal,SFP,,CLOSED - DXY turning point,mtr-st-stoc-angle|mtr-mt-stoc-angle|mtr-st-mom-angle|mtr-mt-mom-angle|mtr-trendline|mtr-snr,1,false,false,1783315519771
 66,ETHUSDT,H4,TradingView,2026-07-06,Jul 2026,SELL,SL,,-50,,5,Swing Failure Pattern,,,,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,,false,false,1783315686323
 67,AUDJPY,D1,MT4,2026-07-07,Jul 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|reload,,false,false,1783572605350
+68,ETHUSD,H4,TradingView,2026-07-06,Jul 2026,SELL,,,,,5,Swing Failure Pattern,,,,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,,false,false,1783572713110
