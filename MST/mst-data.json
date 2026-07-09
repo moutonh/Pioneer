@@ -22,11 +22,11 @@
       "mindmap": "",
       "structure": "Entered ",
       "watchFor": "Wait for trigger - MT_STOC",
-      "updatedAt": "2026-07-09T05:03:26.849Z",
+      "updatedAt": 1783573498120,
       "isHot": false,
       "priority": 20,
       "marketStates": [
-        "momrev-up"
+        "trendcont-up"
       ],
       "chartData2": ""
     },
@@ -80,12 +80,10 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-07-09T04:57:18.699Z",
+      "updatedAt": 1783573491312,
       "priority": 12,
       "isHot": false,
-      "marketStates": [
-        "trendcont-up"
-      ],
+      "marketStates": [],
       "chartData2": ""
     },
     {
@@ -186,10 +184,12 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-07-09T05:01:31.662Z",
+      "updatedAt": 1783573479780,
       "priority": 14,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [
+        "trendcont-down"
+      ]
     }
   ]
 }
