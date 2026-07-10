@@ -190,6 +190,20 @@
       "marketStates": [
         "trendcont-down"
       ]
+    },
+    {
+      "id": "sym_1783661147002",
+      "name": "GRAMUSDT",
+      "chartData": "",
+      "chartData2": "",
+      "caption1": "",
+      "caption2": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 14,
+      "isHot": false
     }
   ]
 }
