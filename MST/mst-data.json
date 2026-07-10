@@ -184,10 +184,12 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": 1783660505553,
+      "updatedAt": 1783660508420,
       "priority": 14,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [
+        "trendcont-down"
+      ]
     }
   ]
 }
