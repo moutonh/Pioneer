@@ -5,9 +5,9 @@
       "name": "BTCUSDT",
       "chartData": "",
       "mindmap": "",
-      "structure": "\nSTOP ALL trend trades",
-      "watchFor": "WAIT for break break of swing ",
-      "updatedAt": "2026-07-13T06:19:36.868Z",
+      "structure": "STOP ALL trend trades",
+      "watchFor": " ",
+      "updatedAt": "2026-07-13T06:19:45.011Z",
       "isHot": false,
       "priority": 11,
       "marketStates": [
