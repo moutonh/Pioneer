@@ -116,3 +116,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 68,ETHUSD,H4,TradingView,2026-07-06,Jul 2026,SELL,CLOSED,SL,,,5,Swing Failure Pattern,,,Closed @ BE : Reached R:R 1:2.5,sfp-snr-2touch|sfp-pin|sfp-break-hl|sfp-no-ma|sfp-divergence,,false,false,1783572713110
 69,PEPEUSDT,H4,TradingView,2026-07-10,Jul 2026,BUY,TP,,150,YES,12,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|mt-mom-trending|sma50-angle|trendline|snr|wave-count|fib|reload,,false,false,1783844760280
 70,PEPEUSDT,H4,TradingView,2026-07-14,Jul 2026,BUY,CLOSED,,-25,,7,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|sma50-angle|wave-count,,false,false,1784177988181
+71,PEPEUSDT,H4,TradingView,2026-07-16,Jul 2026,BUY,SL,,-50,NO,2,ST_Stoc RetWTrend,,Really not sure why I did take this trade,,sma50-angle|wave-count,,false,false,1784264267127
