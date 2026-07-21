@@ -120,3 +120,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 72,EURUSD,D1,MT4,2026-07-15,Jul 2026,BUY,CLOSED,SL,-35,YES,4,Daily Strat,price trend 7,,,ema820|trendline|mtmom,1,false,false,1784295182687
 73,USDJPY,D1,MT4,2026-07-17,Jul 2026,BUY,CLOSED,,0,YES,7,Daily Strat,,,"CLOSED- Not sure, did not breakout and now too far extended move this can also be reversal based on DXY",sma150|sma50|ema820|killzone|trendline|candle|reload,,false,false,1784295645650
 74,PEPEUSDT,H4,TradingView,2026-07-17,Jul 2026,SELL,SL,,-25,YES,5,MOM Trend Reversal,,Into Strong MA support...,,mtr-st-stoc-angle|mtr-mt-stoc-angle|mtr-st-mom-angle|mtr-mt-mom-angle|mtr-snr,,false,false,1784547533937
+75,USDJPY,D1,MT4,2026-07-21,Jul 2026,BUY,,,,,8,Daily Strat,Break ascending triangle,,,sma150|sma50|ema820|killzone|trendline|candle|volextreme,1,false,false,1784637056239
