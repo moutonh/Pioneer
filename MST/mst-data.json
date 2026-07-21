@@ -182,10 +182,12 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-07-21T07:42:27.789Z",
+      "updatedAt": 1784619810788,
       "priority": 14,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [
+        "momrev-up"
+      ]
     },
     {
       "id": "sym_1783661147002",
