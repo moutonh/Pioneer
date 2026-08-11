@@ -125,3 +125,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 77,US2000,D1,MT4,2026-07-31,Jul 2026,BUY,CLOSED,SL,-16,NO,5,Daily Strat,,Not enough Reasons to enter this trade only 5,,sma150|sma50|snr|candle|reload,,false,false,1785507244412
 78,EURUSD,D1,MT4,2026-07-31,Jul 2026,BUY,TP,,100,YES,8,Daily Strat,"7 Wave exhaustion on Price, Divergence on MOM, First Cycle after DAD turns, Fakey at price level",,,snr|mtmom|ststoc|candle,4,false,false,1785507915219
 79,AUDUSD,D1,MT4,2026-07-31,Jul 2026,BUY,CLOSED,,8,,9,Daily Strat,UPWARD MOMentum,,"Closed - RubberBand with 50SMA, second chance pattern ST_Stoc - Wait and see",sma150|ema820|killzone|trendline|snr|mtmom|ststoc|candle,1,false,false,1785508122357
+80,US2000,D1,MT4,2026-08-04,Aug 2026,BUY,,,,YES,8,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|reload,,false,false,1786434808863
