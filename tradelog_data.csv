@@ -129,3 +129,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 81,ETHUSD,D1,MT4,2026-08-11,Aug 2026,SELL,CLOSED,,-20,,7,Daily Strat,"First swing after dad turns,",,"Cllosed - On Reload pattern, counter pin bars",sma150|ema820|trendline|mtmom|ststoc|candle,1,false,false,1786434980878
 82,USDCHF,D1,MT4,2026-08-13,Aug 2026,BUY,CLOSED,SL,0,YES,8,Daily Strat,3rd MOM wave,,"CLOSED - DXY dropped sharp not looking good, 5 waves complete, Stoc at Max, not feeling good about this",sma150|sma50|ema820|killzone|trendline|snr|mtmom,1,false,false,1786599503540
 83,SOLUSDT,H4,TradingView,2026-08-13,Aug 2026,BUY,SL,,-50,,11,ST_Stoc RetWTrend,,MA's all together,,st-stoc-hook|st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|snr|wave-count,,false,false,1786611131950
+84,USDCHF,D1,MT4,2026-08-18,Aug 2026,SELL,,,,,6,Daily Strat,"MOM Divergence,",,,ema820|trendline|snr|mtmom|ststoc,1,false,false,1787059501385
