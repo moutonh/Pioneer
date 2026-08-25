@@ -132,4 +132,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 84,USDCHF,D1,MT4,2026-08-18,Aug 2026,SELL,TP,,100,,6,Daily Strat,"MOM Divergence,",,,ema820|trendline|snr|mtmom|ststoc,1,false,false,1787059501385
 85,TRXUSDT,H4,TradingView,2026-08-17,Aug 2026,BUY,SL,,-50,YES,11,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|mt-mom-trending|sma50-angle|sma150-angle|trendline|wave-count|reload,,false,false,1787059665922
 86,SOLUSD,D1,MT4,2026-08-18,Aug 2026,BUY,TP,,100,YES,7,Daily Strat,MOM Exhaustion turnaround,,,sma50|ema820|killzone|trendline|mtmom|candle,1,false,false,1787059831437
-87,TRXUSDT,H4,TradingView,2026-08-18,Aug 2026,BUY,,,,,11,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|snr|wave-count|fib,,false,false,1787647510969
+87,TRXUSDT,H4,TradingView,2026-08-18,Aug 2026,BUY,TP,,200,,11,ST_Stoc RetWTrend,,,,st-stoc-angle|mt-stoc-angle|mt-stoc-x|st-mom-angle|mt-mom-angle|sma50-angle|sma150-angle|trendline|snr|wave-count|fib,,false,false,1787647510969
