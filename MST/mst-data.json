@@ -63,10 +63,12 @@
       "mindmap": "",
       "structure": "Not eager to take a trade here",
       "watchFor": "",
-      "updatedAt": "2026-08-26T04:46:29.007Z",
+      "updatedAt": 1787719671285,
       "priority": 25,
       "isHot": false,
-      "marketStates": [],
+      "marketStates": [
+        "trendcont-up"
+      ],
       "chartData2": ""
     },
     {
