@@ -197,10 +197,12 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-08-26T04:36:46.467Z",
+      "updatedAt": 1787719716071,
       "priority": 14,
       "isHot": false,
-      "marketStates": []
+      "marketStates": [
+        "trendcont-up"
+      ]
     }
   ]
 }
