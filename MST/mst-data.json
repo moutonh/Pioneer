@@ -87,10 +87,12 @@
       "mindmap": "",
       "structure": "Strong Divergence\nMiss trade entry",
       "watchFor": "",
-      "updatedAt": "2026-08-27T04:05:23.770Z",
+      "updatedAt": 1787803943522,
       "isHot": false,
       "priority": 22,
-      "marketStates": [],
+      "marketStates": [
+        "trendcont-up"
+      ],
       "chartData2": ""
     },
     {
