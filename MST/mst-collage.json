@@ -22,7 +22,7 @@
     "enabled": true,
     "source": "custom",
     "key": "",
-    "symbol": "",
+    "symbol": "USDJPY",
     "tf": "D",
     "bias": "down"
   },
