@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "key": "sym_1781065548346|1",
+      "bias": "auto"
+    }
+  ],
+  "wildcard": {
+    "enabled": false,
+    "source": "saved",
+    "key": "",
+    "symbol": "",
+    "tf": "",
+    "bias": "auto"
+  },
+  "settings": {
+    "preset": "x169",
+    "pageSize": "all",
+    "labelStyle": "corner",
+    "corner": "tl",
+    "showBias": true,
+    "showTitle": true,
+    "title": "MST Daily Overview",
+    "showDate": true,
+    "format": "png"
+  }
+}
