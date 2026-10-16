@@ -1,11 +1,6 @@
 {
   "version": 1,
-  "items": [
-    {
-      "key": "sym_1781065548346|1",
-      "bias": "down"
-    }
-  ],
+  "items": [],
   "wildcard": {
     "enabled": false,
     "source": "saved",
