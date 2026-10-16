@@ -102,13 +102,14 @@
       "mindmap": "",
       "structure": "Must be in final TOP cycle - Maybe a slight push upward",
       "watchFor": "",
-      "updatedAt": 1790831116851,
+      "updatedAt": "2026-10-16T11:38:31.310Z",
       "priority": 2,
       "isHot": false,
       "marketStates": [
         "up"
       ],
-      "chartData2": ""
+      "chartData2": "",
+      "tf2": "4H"
     },
     {
       "id": "sym_1781065548346",
