@@ -117,14 +117,15 @@
       "mindmap": "",
       "structure": "Might go a bit up before down",
       "watchFor": "",
-      "updatedAt": "2026-10-16T11:37:35.234Z",
+      "updatedAt": "2026-10-16T11:37:53.332Z",
       "priority": 1,
       "isHot": false,
       "marketStates": [
         "up"
       ],
       "chartData2": "",
-      "tf1": "4H"
+      "tf1": "4H",
+      "tf2": "D"
     },
     {
       "id": "sym_1781066145066",
