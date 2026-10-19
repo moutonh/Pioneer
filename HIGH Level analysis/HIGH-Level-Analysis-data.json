@@ -205,7 +205,14 @@
         {
           "id": "id_1792412719215_ag298zx4v",
           "title": "USD.T",
-          "level3": []
+          "level3": [
+            {
+              "id": "id_1792412728719_el98l9ug4",
+              "title": "",
+              "description": "",
+              "links": []
+            }
+          ]
         }
       ]
     }
