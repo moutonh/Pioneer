@@ -12,6 +12,22 @@
         "tf": "D",
         "bias": "down"
       }
+    },
+    "11": {
+      "items": [
+        {
+          "key": "sym_1781065538676|1",
+          "bias": "auto"
+        }
+      ],
+      "wildcard": {
+        "enabled": false,
+        "source": "saved",
+        "key": "",
+        "symbol": "",
+        "tf": "",
+        "bias": "auto"
+      }
     }
   },
   "settings": {
