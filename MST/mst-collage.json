@@ -3,16 +3,7 @@
   "active": 1,
   "groups": {
     "1": {
-      "items": [
-        {
-          "key": "sym_1781065548346|1",
-          "bias": "auto"
-        },
-        {
-          "key": "sym_1781065538676|1",
-          "bias": "auto"
-        }
-      ],
+      "items": [],
       "wildcard": {
         "enabled": true,
         "source": "custom",
