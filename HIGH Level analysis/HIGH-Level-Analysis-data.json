@@ -182,7 +182,13 @@
     {
       "id": "id_1792416617522_ga926dhig",
       "title": "METALS",
-      "subheadings": []
+      "subheadings": [
+        {
+          "id": "id_1792416626590_cp79tn2nj",
+          "title": "",
+          "level3": []
+        }
+      ]
     }
   ],
   "schema": 2
