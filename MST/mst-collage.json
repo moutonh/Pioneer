@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "active": 1,
+  "active": 12,
   "groups": {
     "1": {
       "items": [
         {
           "key": "sym_1781065548346|1",
+          "bias": "auto"
+        },
+        {
+          "key": "sym_1781065548346|2",
           "bias": "auto"
         }
       ],
