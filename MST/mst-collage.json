@@ -1,18 +1,23 @@
 {
-  "version": 1,
-  "items": [
-    {
-      "key": "sym_1781065538676|1",
-      "bias": "flat"
+  "version": 2,
+  "active": 2,
+  "groups": {
+    "1": {
+      "items": [
+        {
+          "key": "sym_1781065538676|1",
+          "bias": "flat"
+        }
+      ],
+      "wildcard": {
+        "enabled": true,
+        "source": "custom",
+        "key": "",
+        "symbol": "USDJPY",
+        "tf": "D",
+        "bias": "down"
+      }
     }
-  ],
-  "wildcard": {
-    "enabled": true,
-    "source": "custom",
-    "key": "",
-    "symbol": "USDJPY",
-    "tf": "D",
-    "bias": "down"
   },
   "settings": {
     "preset": "x169",
