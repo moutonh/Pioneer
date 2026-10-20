@@ -207,7 +207,13 @@
     {
       "id": "id_1792493695512_w0ydwudoe",
       "title": "MACRO Economy charts",
-      "subheadings": []
+      "subheadings": [
+        {
+          "id": "id_1792493709114_bc5k6bogu",
+          "title": "",
+          "level3": []
+        }
+      ]
     }
   ],
   "schema": 2
