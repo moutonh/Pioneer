@@ -79,7 +79,14 @@
         {
           "id": "id_1792520561378_f20nqyb6b",
           "title": "T10Y2Y — the US Treasury yield-curve spread",
-          "level3": []
+          "level3": [
+            {
+              "id": "id_1792520608424_wztckkj54",
+              "title": "",
+              "description": "",
+              "links": []
+            }
+          ]
         }
       ]
     },
