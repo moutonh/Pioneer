@@ -211,7 +211,14 @@
         {
           "id": "id_1792493709114_bc5k6bogu",
           "title": "interest-payment burden on disposable income",
-          "level3": []
+          "level3": [
+            {
+              "id": "id_1792493762763_kpbeunzok",
+              "title": "",
+              "description": "",
+              "links": []
+            }
+          ]
         }
       ]
     }
