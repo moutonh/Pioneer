@@ -27,6 +27,11 @@
               "links": []
             }
           ]
+        },
+        {
+          "id": "id_1792473203068_9ey0on0l4",
+          "title": "",
+          "level3": []
         }
       ]
     },
@@ -54,6 +59,66 @@
               "id": "id_1792411834200_kn2i2v4na",
               "title": "18.10.2026",
               "description": "how much extra interest investors demand to lend money to riskier US companies, compared with US Treasury bonds.",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "id_1792405079595_aylzsr9io",
+      "title": "CRYPTO",
+      "subheadings": [
+        {
+          "id": "id_1792411457563_ya2l3xhw3",
+          "title": "ETHUSD",
+          "level3": [
+            {
+              "id": "id_1792406493007_i7fct4an7",
+              "title": "19.10.2026",
+              "description": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "id": "id_1792412121499_9cnpeqbus",
+          "title": "TOTAL3ESBTC",
+          "level3": [
+            {
+              "id": "id_1792412128513_0pqq0f65q",
+              "title": "19.10.2026",
+              "description": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "id": "id_1792412719215_ag298zx4v",
+          "title": "USDT.D",
+          "level3": [
+            {
+              "id": "id_1792412728719_el98l9ug4",
+              "title": "28.6.2026",
+              "description": "3 Mom wave is the average mom pattern.\n5 is over extended",
+              "links": []
+            },
+            {
+              "id": "id_1792412954157_vfdnaocix",
+              "title": "19.10.2026",
+              "description": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "id": "id_1792413295186_ogv1hjlo6",
+          "title": "BTC.D",
+          "level3": [
+            {
+              "id": "id_1792413310000_24o3b2653",
+              "title": "19.10.2026",
+              "description": "",
               "links": []
             }
           ]
@@ -119,66 +184,6 @@
             {
               "id": "id_1792435033324_b72jlh97i",
               "title": "19.10.2026 - GOLDSILVER",
-              "description": "",
-              "links": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "id_1792405079595_aylzsr9io",
-      "title": "CRYPTO",
-      "subheadings": [
-        {
-          "id": "id_1792411457563_ya2l3xhw3",
-          "title": "ETHUSD",
-          "level3": [
-            {
-              "id": "id_1792406493007_i7fct4an7",
-              "title": "19.10.2026",
-              "description": "",
-              "links": []
-            }
-          ]
-        },
-        {
-          "id": "id_1792412121499_9cnpeqbus",
-          "title": "TOTAL3ESBTC",
-          "level3": [
-            {
-              "id": "id_1792412128513_0pqq0f65q",
-              "title": "19.10.2026",
-              "description": "",
-              "links": []
-            }
-          ]
-        },
-        {
-          "id": "id_1792412719215_ag298zx4v",
-          "title": "USDT.D",
-          "level3": [
-            {
-              "id": "id_1792412954157_vfdnaocix",
-              "title": "19.10.2026",
-              "description": "",
-              "links": []
-            },
-            {
-              "id": "id_1792412728719_el98l9ug4",
-              "title": "28.6.2026",
-              "description": "3 Mom wave is the average mom pattern.\n5 is over extended",
-              "links": []
-            }
-          ]
-        },
-        {
-          "id": "id_1792413295186_ogv1hjlo6",
-          "title": "BTC.D",
-          "level3": [
-            {
-              "id": "id_1792413310000_24o3b2653",
-              "title": "19.10.2026",
               "description": "",
               "links": []
             }
