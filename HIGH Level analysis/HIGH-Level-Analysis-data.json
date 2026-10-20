@@ -293,30 +293,6 @@
           ]
         },
         {
-          "id": "id_1792498226140_cifuyuut4",
-          "title": "Delinquency Rate on Commercial Real Estate Loans",
-          "level3": [
-            {
-              "id": "id_1792498231267_azge5bzne",
-              "title": "DRCRELEXFACBS",
-              "description": "",
-              "links": []
-            }
-          ]
-        },
-        {
-          "id": "id_1792498543987_pjfmlvsed",
-          "title": "Delinquency Rate on Credit Card Loans",
-          "level3": [
-            {
-              "id": "id_1792498549431_w60q4cmz7",
-              "title": "DRCCLACBS",
-              "description": "",
-              "links": []
-            }
-          ]
-        },
-        {
           "id": "id_1792498696105_j2p9r7907",
           "title": "Delinquency Rates",
           "level3": [
