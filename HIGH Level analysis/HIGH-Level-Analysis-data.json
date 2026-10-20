@@ -121,6 +121,24 @@
       ]
     },
     {
+      "id": "id_1792473221066_vr6vz00tu",
+      "title": "DXY",
+      "subheadings": [
+        {
+          "id": "id_1792473228926_fyqt2kb9s",
+          "title": "",
+          "level3": [
+            {
+              "id": "id_1792473386942_rw6zka23o",
+              "title": "DXY - 20.10.2026",
+              "description": "",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "id_1792416617522_ga926dhig",
       "title": "METALS",
       "subheadings": [
@@ -179,24 +197,6 @@
             {
               "id": "id_1792435033324_b72jlh97i",
               "title": "19.10.2026 - GOLDSILVER",
-              "description": "",
-              "links": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "id_1792473221066_vr6vz00tu",
-      "title": "DXY",
-      "subheadings": [
-        {
-          "id": "id_1792473228926_fyqt2kb9s",
-          "title": "",
-          "level3": [
-            {
-              "id": "id_1792473386942_rw6zka23o",
-              "title": "DXY - 20.10.2026",
               "description": "",
               "links": []
             }
