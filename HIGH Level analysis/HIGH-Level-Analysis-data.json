@@ -31,36 +31,6 @@
       ]
     },
     {
-      "id": "id_1792400311335_fbx2c0aa3",
-      "title": "Interest rates",
-      "subheadings": [
-        {
-          "id": "id_1792411457563_22utt9mo1",
-          "title": "Yield curve : TVC:US02Y-TVC:US10Y",
-          "level3": [
-            {
-              "id": "id_1792400319475_ov965jgbm",
-              "title": "19.10.2026",
-              "description": "The 2-year yield:  is higher than the 10-year yield. Investors are demanding more return for short-term risk, signalling low confidence in near-term economic growth and predicting aggressive Federal Reserve interest rate cuts.\n\nThe 10-year yield: is higher than the 2-year yield. This represents a standard economic environment where longer-term lockups require higher yields to compensate for time risk and inflation.",
-              "links": []
-            }
-          ]
-        },
-        {
-          "id": "id_1792411787967_wos2nc9u4",
-          "title": "High-yield credit spreads : BAMLH0A0HYM2",
-          "level3": [
-            {
-              "id": "id_1792411834200_kn2i2v4na",
-              "title": "18.10.2026",
-              "description": "how much extra interest investors demand to lend money to riskier US companies, compared with US Treasury bonds.",
-              "links": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "id_1792405079595_aylzsr9io",
       "title": "CRYPTO",
       "subheadings": [
@@ -114,6 +84,36 @@
               "id": "id_1792413310000_24o3b2653",
               "title": "19.10.2026",
               "description": "",
+              "links": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "id_1792400311335_fbx2c0aa3",
+      "title": "Interest rates",
+      "subheadings": [
+        {
+          "id": "id_1792411457563_22utt9mo1",
+          "title": "Yield curve : TVC:US02Y-TVC:US10Y",
+          "level3": [
+            {
+              "id": "id_1792400319475_ov965jgbm",
+              "title": "19.10.2026",
+              "description": "The 2-year yield:  is higher than the 10-year yield. Investors are demanding more return for short-term risk, signalling low confidence in near-term economic growth and predicting aggressive Federal Reserve interest rate cuts.\n\nThe 10-year yield: is higher than the 2-year yield. This represents a standard economic environment where longer-term lockups require higher yields to compensate for time risk and inflation.",
+              "links": []
+            }
+          ]
+        },
+        {
+          "id": "id_1792411787967_wos2nc9u4",
+          "title": "High-yield credit spreads : BAMLH0A0HYM2",
+          "level3": [
+            {
+              "id": "id_1792411834200_kn2i2v4na",
+              "title": "18.10.2026",
+              "description": "how much extra interest investors demand to lend money to riskier US companies, compared with US Treasury bonds.",
               "links": []
             }
           ]
