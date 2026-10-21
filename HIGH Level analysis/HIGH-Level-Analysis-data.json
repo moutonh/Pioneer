@@ -391,5 +391,12 @@
       ]
     }
   ],
-  "schema": 2
+  "schema": 2,
+  "summary": {
+    "period": "",
+    "overview": "INDPRO ↑, ISM ↑, US10Y ↑ sharply",
+    "notes": "",
+    "takeaways": "",
+    "updatedAt": "2026-10-21T07:38:12.652Z"
+  }
 }
