@@ -327,16 +327,14 @@
               "links": []
             }
           ]
+        },
+        {
+          "id": "id_1792557192139_1jkhaamup",
+          "title": "",
+          "level3": []
         }
       ]
     }
   ],
-  "schema": 2,
-  "summary": {
-    "period": "",
-    "overview": "",
-    "notes": "wer",
-    "takeaways": "",
-    "updatedAt": "2026-10-21T04:17:39.930Z"
-  }
+  "schema": 2
 }
