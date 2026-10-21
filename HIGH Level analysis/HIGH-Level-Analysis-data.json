@@ -49,7 +49,14 @@
         {
           "id": "id_1792557613162_ckuiv59f2",
           "title": "CORE CPI",
-          "level3": []
+          "level3": [
+            {
+              "id": "id_1792557626212_sqdng959c",
+              "title": "",
+              "description": "",
+              "links": []
+            }
+          ]
         }
       ]
     },
