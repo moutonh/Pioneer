@@ -23,24 +23,24 @@
           ]
         },
         {
-          "id": "id_1792567918822_bkmfhgsxj",
-          "title": "10 YR GOVERNMENT BONDS",
-          "level3": [
-            {
-              "id": "id_1792567930304_5nh1wicix",
-              "title": "US10YR",
-              "description": "",
-              "links": []
-            }
-          ]
-        },
-        {
           "id": "id_1792568155457_m0fercwda",
           "title": "CPI - Invlation",
           "level3": [
             {
               "id": "id_1792568161031_bvst3ojwf",
               "title": "USCCPI",
+              "description": "",
+              "links": []
+            }
+          ]
+        },
+        {
+          "id": "id_1792567918822_bkmfhgsxj",
+          "title": "10 YR GOVERNMENT BONDS",
+          "level3": [
+            {
+              "id": "id_1792567930304_5nh1wicix",
+              "title": "US10YR",
               "description": "",
               "links": []
             }
