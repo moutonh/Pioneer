@@ -331,5 +331,12 @@
       ]
     }
   ],
-  "schema": 2
+  "schema": 2,
+  "summary": {
+    "period": "",
+    "overview": "",
+    "notes": "wer",
+    "takeaways": "",
+    "updatedAt": "2026-10-21T04:17:39.930Z"
+  }
 }
