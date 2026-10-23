@@ -18,10 +18,10 @@
    "img1": "MST/history/DXY/2026-10/2026-10-22_1.jpg",
    "img2": "MST/history/DXY/2026-10/2026-10-22_2.jpg",
    "stale": [],
-   "verdict": null,
-   "verdictAt": null,
+   "verdict": "yes",
+   "verdictAt": "2026-10-23T05:11:37.946Z",
    "trigger": null
   }
  },
- "updatedAt": "2026-10-23T05:11:32.766Z"
+ "updatedAt": "2026-10-23T05:11:38.546Z"
 }
