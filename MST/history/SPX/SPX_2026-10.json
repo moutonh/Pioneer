@@ -19,7 +19,12 @@
    "calledAt": "2026-10-27T04:42:36.814Z",
    "calledTime": "06:42",
    "call": "down",
-   "verdicts": {},
+   "verdicts": {
+    "2026-10-28": {
+     "v": "yes",
+     "at": "2026-10-28T05:50:06.395Z"
+    }
+   },
    "trigger": null
   }
  },
@@ -42,5 +47,5 @@
    "loggedTime": "07:05"
   }
  },
- "updatedAt": "2026-10-28T05:05:25.515Z"
+ "updatedAt": "2026-10-28T05:50:06.984Z"
 }
