@@ -23,6 +23,24 @@
    "trigger": null
   }
  },
- "logs": {},
- "updatedAt": "2026-10-27T04:42:48.525Z"
+ "logs": {
+  "2026-10-28": {
+   "symbol": "SPX",
+   "symName": "SPX",
+   "structure": "Pullback should be deep enough",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "156763:17uyzgf",
+   "h2": "146967:ljwknw",
+   "img1": "MST/history/SPX/2026-10/SPX_2026-10-28_log_1.jpg",
+   "img2": "MST/history/SPX/2026-10/SPX_2026-10-28_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-10-28T05:05:18.852Z",
+   "loggedTime": "07:05"
+  }
+ },
+ "updatedAt": "2026-10-28T05:05:25.515Z"
 }
