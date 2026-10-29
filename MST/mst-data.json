@@ -135,13 +135,14 @@
       "mindmap": "",
       "structure": "Strong momentum loss to the upside",
       "watchFor": "",
-      "updatedAt": "2026-10-29T03:43:02.488Z",
+      "updatedAt": "2026-10-29T04:38:51.477Z",
       "priority": 5,
       "isHot": false,
       "marketStates": [
         "up"
       ],
-      "chartData2": ""
+      "chartData2": "",
+      "tf2": "4H"
     },
     {
       "id": "sym_1781066310085",
