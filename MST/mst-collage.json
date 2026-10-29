@@ -32,7 +32,7 @@
       "wildcard": {
         "enabled": true,
         "source": "saved",
-        "key": "sym_1782460872607|1",
+        "key": "",
         "symbol": "",
         "tf": "",
         "bias": "auto"
