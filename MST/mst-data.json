@@ -204,6 +204,20 @@
       "priority": 14,
       "isHot": false,
       "marketStates": []
+    },
+    {
+      "id": "sym_1793245706027",
+      "name": "BTC.D",
+      "chartData": "",
+      "chartData2": "",
+      "caption1": "",
+      "caption2": "",
+      "mindmap": "",
+      "structure": "",
+      "watchFor": "",
+      "updatedAt": null,
+      "priority": 15,
+      "isHot": false
     }
   ]
 }
