@@ -1,0 +1,28 @@
+{
+ "symbol": "BTC.D",
+ "month": "2026-10",
+ "days": {
+  "2026-10-29": {
+   "symbol": "BTC.D",
+   "symName": "BTC.D",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "M",
+   "tf2": "",
+   "h1": "173203:39qtk7",
+   "h2": "153519:1b5nh8m",
+   "img1": "MST/history/BTC.D/2026-10/BTC.D_2026-10-29_call_1.jpg",
+   "img2": "MST/history/BTC.D/2026-10/BTC.D_2026-10-29_call_2.jpg",
+   "stale": [],
+   "calledAt": "2026-10-29T03:53:40.010Z",
+   "calledTime": "05:53",
+   "call": "up",
+   "verdicts": {},
+   "trigger": null
+  }
+ },
+ "logs": {},
+ "updatedAt": "2026-10-29T03:53:48.703Z"
+}
