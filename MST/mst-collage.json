@@ -31,7 +31,7 @@
       ],
       "wildcard": {
         "enabled": true,
-        "source": "saved",
+        "source": "custom",
         "key": "",
         "symbol": "",
         "tf": "",
