@@ -118,10 +118,12 @@
       "mindmap": "",
       "structure": "Might go a bit up before down",
       "watchFor": "",
-      "updatedAt": 1793245551564,
+      "updatedAt": 1793245552329,
       "priority": 1,
       "isHot": false,
-      "marketStates": [],
+      "marketStates": [
+        "up"
+      ],
       "chartData2": "",
       "tf1": "4H",
       "tf2": "4H"
