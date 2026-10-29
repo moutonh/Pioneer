@@ -215,10 +215,13 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": "2026-10-29T03:52:43.681Z",
+      "updatedAt": 1793246020008,
       "priority": 6,
       "isHot": false,
-      "tf1": "M"
+      "tf1": "M",
+      "marketStates": [
+        "up"
+      ]
     }
   ]
 }
