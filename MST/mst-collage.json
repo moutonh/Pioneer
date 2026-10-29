@@ -33,7 +33,7 @@
         "enabled": true,
         "source": "custom",
         "key": "",
-        "symbol": "",
+        "symbol": "ETHUSD",
         "tf": "",
         "bias": "auto"
       }
