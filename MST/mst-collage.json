@@ -31,7 +31,7 @@
       ],
       "wildcard": {
         "enabled": true,
-        "source": "custom",
+        "source": "saved",
         "key": "",
         "symbol": "ETHUSD",
         "tf": "",
