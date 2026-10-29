@@ -37,7 +37,7 @@
    }
   }
  },
- "updatedAt": "2026-10-28T05:05:35.878Z",
+ "updatedAt": "2026-10-29T03:44:12.321Z",
  "logs": {
   "2026-10-26": {
    "symbol": "DXY",
@@ -89,6 +89,23 @@
    "stale": [],
    "loggedAt": "2026-10-28T05:05:30.052Z",
    "loggedTime": "07:05"
+  },
+  "2026-10-29": {
+   "symbol": "DXY",
+   "symName": "DXY",
+   "structure": "UP Bias\n - On Resistance\n - Daily stoc @ bottom\n - H4 mom wave 9",
+   "watch": "",
+   "caption1": "",
+   "caption2": "4H - Detail chart",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "129691:1ou7x51",
+   "h2": "92819:1qalcti",
+   "img1": "MST/history/DXY/2026-10/DXY_2026-10-29_log_1.jpg",
+   "img2": "MST/history/DXY/2026-10/DXY_2026-10-29_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-10-29T03:44:06.958Z",
+   "loggedTime": "05:44"
   }
  }
 }
