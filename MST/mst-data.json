@@ -74,11 +74,12 @@
       "mindmap": "",
       "structure": "STOP trend trades",
       "watchFor": "",
-      "updatedAt": "2026-10-29T04:42:38.070Z",
+      "updatedAt": "2026-10-29T04:42:44.025Z",
       "priority": 12,
       "isHot": false,
       "marketStates": [],
-      "chartData2": ""
+      "chartData2": "",
+      "tf1": "4H"
     },
     {
       "id": "sym_1779164418129",
