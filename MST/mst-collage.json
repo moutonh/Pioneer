@@ -32,7 +32,7 @@
       "wildcard": {
         "enabled": true,
         "source": "saved",
-        "key": "",
+        "key": "sym_1779164316828|1",
         "symbol": "ETHUSD",
         "tf": "",
         "bias": "auto"
