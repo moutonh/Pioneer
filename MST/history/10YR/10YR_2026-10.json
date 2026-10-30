@@ -50,17 +50,14 @@
    "caption2": "",
    "tf1": "4H",
    "tf2": "4H",
-   "h1": "135175:11chzeu",
-   "h2": "172871:1hs815p",
+   "h1": "130983:vb6poj",
+   "h2": "149387:1gaequa",
    "img1": "MST/history/10YR/2026-10/10YR_2026-10-30_log_1.jpg",
    "img2": "MST/history/10YR/2026-10/10YR_2026-10-30_log_2.jpg",
-   "stale": [
-    1,
-    2
-   ],
-   "loggedAt": "2026-10-30T04:41:33.459Z",
-   "loggedTime": "06:41"
+   "stale": [],
+   "loggedAt": "2026-10-30T04:45:28.926Z",
+   "loggedTime": "06:45"
   }
  },
- "updatedAt": "2026-10-30T04:41:40.058Z"
+ "updatedAt": "2026-10-30T04:45:35.631Z"
 }
