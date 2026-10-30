@@ -80,7 +80,7 @@
     }
   },
   "settings": {
-    "preset": "doc",
+    "preset": "x169",
     "pageSize": "all",
     "labelStyle": "corner",
     "corner": "tl",
