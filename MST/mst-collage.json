@@ -81,7 +81,7 @@
   },
   "settings": {
     "preset": "x169",
-    "pageSize": "4",
+    "pageSize": "all",
     "labelStyle": "corner",
     "corner": "tl",
     "showBias": true,
