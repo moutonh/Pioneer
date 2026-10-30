@@ -76,17 +76,14 @@
    "caption2": "",
    "tf1": "D",
    "tf2": "4H",
-   "h1": "148795:l2cuqo",
-   "h2": "134859:lo56b4",
+   "h1": "158859:1ytf28y",
+   "h2": "160023:3zhw46",
    "img1": "MST/history/SPX/2026-10/SPX_2026-10-30_log_1.jpg",
    "img2": "MST/history/SPX/2026-10/SPX_2026-10-30_log_2.jpg",
-   "stale": [
-    1,
-    2
-   ],
-   "loggedAt": "2026-10-30T04:38:33.326Z",
-   "loggedTime": "06:38"
+   "stale": [],
+   "loggedAt": "2026-10-30T04:48:00.993Z",
+   "loggedTime": "06:48"
   }
  },
- "updatedAt": "2026-10-30T04:38:38.712Z"
+ "updatedAt": "2026-10-30T04:48:07.213Z"
 }
