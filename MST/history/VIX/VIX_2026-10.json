@@ -1,0 +1,28 @@
+{
+ "symbol": "VIX",
+ "month": "2026-10",
+ "days": {
+  "2026-10-30": {
+   "symbol": "VIX",
+   "symName": "VIX",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "",
+   "tf2": "",
+   "h1": "127583:1pgzb0g",
+   "h2": "133615:14ufijr",
+   "img1": "MST/history/VIX/2026-10/VIX_2026-10-30_call_1.jpg",
+   "img2": "MST/history/VIX/2026-10/VIX_2026-10-30_call_2.jpg",
+   "stale": [],
+   "calledAt": "2026-10-30T04:57:20.844Z",
+   "calledTime": "06:57",
+   "call": "up",
+   "verdicts": {},
+   "trigger": null
+  }
+ },
+ "logs": {},
+ "updatedAt": "2026-10-30T04:57:31.557Z"
+}
