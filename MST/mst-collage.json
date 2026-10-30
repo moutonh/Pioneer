@@ -50,7 +50,7 @@
         }
       ],
       "wildcard": {
-        "enabled": false,
+        "enabled": true,
         "source": "saved",
         "key": "",
         "symbol": "",
