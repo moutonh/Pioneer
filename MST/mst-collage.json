@@ -53,7 +53,7 @@
         "enabled": true,
         "source": "custom",
         "key": "",
-        "symbol": "",
+        "symbol": "US",
         "tf": "",
         "bias": "auto"
       }
