@@ -155,3 +155,4 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 104,US30,D1,MT4,2026-10-30,Oct 2026,SELL,,,,,8,Daily Strat,,,,sma50|ema820|trendline|snr|ststoc|candle|volextreme|reload,,false,false,1793337955366
 105,GBPJPY,D1,MT4,2026-09-21,Sept 2026,BUY,CLOSED,SL,-18,NO,3,Daily Strat,,Count is too low to enter this trade!,,trendline|mtmom|rubberband,,false,false,1793368327375
 106,US2000,D1,MT4,2026-09-21,Sept 2026,BUY,SL,,-50,YES,6,Daily Strat,,,,sma150|snr|ststoc|candle|volextreme|reload,,false,false,1793368612762
+107,GBPUSD,D1,MT4,2026-10-28,Oct 2026,BUY,CLOSED,SL,-10,,3,Daily Strat,EXTENDED move,Count was too low,,snr|ststoc,1,false,false,1793369212618
