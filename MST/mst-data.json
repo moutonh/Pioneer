@@ -153,11 +153,13 @@
       "mindmap": "",
       "structure": "",
       "watchFor": "",
-      "updatedAt": 1793336240254,
+      "updatedAt": 1793336240843,
       "priority": 5,
       "isHot": false,
       "chartData2": "",
-      "marketStates": []
+      "marketStates": [
+        "up"
+      ]
     },
     {
       "id": "sym_1781067671489",
