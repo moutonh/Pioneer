@@ -145,7 +145,7 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 97,USDCAD,D1,MT4,2026-09-01,Sept 2026,BUY,SL,,-50,,8,Daily Strat,Head and sholders pattern,DXY  overbought Against direction & Stoc is above 50 going down,,sma150|ema820|killzone|trendline|snr|mtmom|candle,1,false,false,1788351208086
 98,xagusd,D1,TradingView,2026-09-09,Sept 2026,BUY,SL,,-10,NO,4,Daily Strat,,"Terrible entry - Extended 5 Wave pattern, Stoc above 50, Momonetum 2 arrows on indicator",,sma50|killzone|trendline|mtmom,,false,false,1792162039364
 99,usdchf,D1,TradingView,2026-09-10,Sept 2026,BUY,TP,,100,,10,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|snr|mtmom|ststoc|candle|reload,,false,false,1792162292240
-100,gbpjpy,D1,TradingView,2026-09-10,Sept 2026,BUY,TP,,100,,6,Daily Strat,"With ST_MOM, ST_Stoc X",,,ststoc|candle|volextreme|rubberband,2,false,false,1792162947098
+100,gbpjpy,D1,MT4,2026-09-10,Sept 2026,BUY,TP,,100,,6,Daily Strat,"With ST_MOM, ST_Stoc X",,,ststoc|candle|volextreme|rubberband,2,false,false,1792162947098
 101,us500,D1,MT4,2026-09-17,Sept 2026,BUY,TP,,100,YES,7,Daily Strat,Reeload pattern into stong support is very stong signal +2,,,sma150|sma50|snr|ststoc|reload,2,false,false,1792163341244
 102,BTCUSD,D1,MT4,2026-10-28,Oct 2026,SELL,CLOSED,,-30,NO,6,Daily Strat,,"Very bad trade entry
 -Against reload pattern
