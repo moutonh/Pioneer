@@ -43,9 +43,29 @@
      "at": "2026-10-30T04:38:16.725Z"
     }
    }
+  },
+  "2026-10-30": {
+   "symbol": "DXY",
+   "symName": "DXY",
+   "structure": "UP Bias\n - On Resistance\n - Daily stoc @ bottom\n - H4 mom wave 9",
+   "watch": "",
+   "caption1": "",
+   "caption2": "4H - Detail chart",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "140635:1qlzuq1",
+   "h2": "141375:127y5lw",
+   "img1": "MST/history/DXY/2026-10/DXY_2026-10-30_call_1.jpg",
+   "img2": "MST/history/DXY/2026-10/DXY_2026-10-30_call_2.jpg",
+   "stale": [],
+   "calledAt": "2026-10-30T04:58:14.738Z",
+   "calledTime": "06:58",
+   "call": "flat",
+   "verdicts": {},
+   "trigger": null
   }
  },
- "updatedAt": "2026-10-30T04:38:17.316Z",
+ "updatedAt": "2026-10-30T04:58:23.415Z",
  "logs": {
   "2026-10-26": {
    "symbol": "DXY",
