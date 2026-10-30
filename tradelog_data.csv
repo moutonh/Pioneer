@@ -153,5 +153,5 @@ Vertical impulse",,st-stoc-hook|st-stoc-angle|st-mom-angle|mt-mom-angle|mt-mom-t
 -Against Stong resistance",,sma50|ema820|trendline|snr|mtmom|volextreme,,false,false,1793162024333
 103,ETHUSD,D1,MT4,2026-10-29,Oct 2026,SELL,,,,,8,Daily Strat,,,,sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1793248667695
 104,US30,D1,MT4,2026-10-30,Oct 2026,SELL,,,,,8,Daily Strat,,,,sma50|ema820|trendline|snr|ststoc|candle|volextreme|reload,,false,false,1793337955366
-105,GBPJPY,D1,MT4,2026-09-21,Sept 2026,BUY,CLOSED,SL,-18,NO,3,Daily Strat,,Mistake - Count is too low to enter this trade!,,trendline|mtmom|rubberband,,false,false,1793368327375
+105,GBPJPY,D1,MT4,2026-09-21,Sept 2026,BUY,CLOSED,SL,-18,NO,3,Daily Strat,,Count is too low to enter this trade!,,trendline|mtmom|rubberband,,false,false,1793368327375
 106,US2000,D1,MT4,2026-09-21,Sept 2026,BUY,SL,,-50,YES,6,Daily Strat,,,,sma150|snr|ststoc|candle|volextreme|reload,,false,false,1793368612762
