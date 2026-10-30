@@ -82,7 +82,7 @@
   "settings": {
     "preset": "x169",
     "pageSize": "all",
-    "labelStyle": "corner",
+    "labelStyle": "strip",
     "corner": "tl",
     "showBias": true,
     "showTitle": true,
