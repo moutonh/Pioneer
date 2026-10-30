@@ -38,6 +38,22 @@
         "bias": "auto"
       }
     },
+    "3": {
+      "items": [
+        {
+          "key": "sym_1781066310085|2",
+          "bias": "auto"
+        }
+      ],
+      "wildcard": {
+        "enabled": false,
+        "source": "saved",
+        "key": "",
+        "symbol": "",
+        "tf": "",
+        "bias": "auto"
+      }
+    },
     "11": {
       "items": [
         {
