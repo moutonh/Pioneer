@@ -1,0 +1,25 @@
+{
+ "symbol": "VIX",
+ "month": "2026-11",
+ "days": {},
+ "logs": {
+  "2026-11-02": {
+   "symbol": "VIX",
+   "symName": "VIX",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "",
+   "tf2": "",
+   "h1": "125699:1qch3jj",
+   "h2": "124855:73tjcj",
+   "img1": "MST/history/VIX/2026-11/VIX_2026-11-02_log_1.jpg",
+   "img2": "MST/history/VIX/2026-11/VIX_2026-11-02_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-02T05:35:42.403Z",
+   "loggedTime": "07:35"
+  }
+ },
+ "updatedAt": "2026-11-02T05:35:48.645Z"
+}
