@@ -64,11 +64,16 @@
    "calledAt": "2026-10-30T04:58:14.738Z",
    "calledTime": "06:58",
    "call": "flat",
-   "verdicts": {},
+   "verdicts": {
+    "2026-11-02": {
+     "v": "yes",
+     "at": "2026-11-02T05:28:00.078Z"
+    }
+   },
    "trigger": null
   }
  },
- "updatedAt": "2026-10-30T04:59:56.474Z",
+ "updatedAt": "2026-11-02T05:28:00.683Z",
  "logs": {
   "2026-10-26": {
    "symbol": "DXY",
