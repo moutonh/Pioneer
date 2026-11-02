@@ -1,0 +1,25 @@
+{
+ "symbol": "10YR",
+ "month": "2026-11",
+ "days": {},
+ "logs": {
+  "2026-11-02": {
+   "symbol": "10YR",
+   "symName": "10YR",
+   "structure": "Might go a bit up before down",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "4H",
+   "tf2": "4H",
+   "h1": "135223:ie9afz",
+   "h2": "152559:eb4d6h",
+   "img1": "MST/history/10YR/2026-11/10YR_2026-11-02_log_1.jpg",
+   "img2": "MST/history/10YR/2026-11/10YR_2026-11-02_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-02T05:25:57.877Z",
+   "loggedTime": "07:25"
+  }
+ },
+ "updatedAt": "2026-11-02T05:26:06.455Z"
+}
