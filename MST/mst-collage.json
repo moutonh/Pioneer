@@ -49,7 +49,7 @@
         "enabled": true,
         "source": "custom",
         "key": "",
-        "symbol": "BRENT",
+        "symbol": "SOLUSD",
         "tf": "",
         "bias": "auto"
       }
