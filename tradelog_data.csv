@@ -161,5 +161,5 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 109,USDJPY,D1,MT4,2026-10-08,Oct 2026,BUY,CLOSED,SL,-14,,9,Daily Strat,,,,sma150|ema820|killzone|trendline|snr|mtmom|candle|volextreme|rubberband,,false,false,1793850079207
 110,EURUSD,D1,MT4,2026-10-23,Oct 2026,SELL,CLOSED,TP,-14,YES,9,Daily Strat,,,,sma150|sma50|ema820|killzone|trendline|ststoc|candle|volextreme|reload,,false,false,1793850244207
 111,SOLUSDT,D1,MT4,2026-11-05,Nov 2026,BUY,CLOSED,SL,-30,YES,8,Daily Strat,Ascending triganle into 61% Fib,,,sma150|trendline|snr|ststoc|candle|volextreme|reload,1,false,false,1793854271864
-112,USDCHF,D1,MT4,2026-11-05,Nov 2026,BUY,,,,,6,Daily Strat,,,,sma150|sma50|snr|ststoc|volextreme|reload,,false,false,1793939969866
+112,USDCHF,D1,MT4,2026-11-05,Nov 2026,BUY,,,,,7,Daily Strat,,,,sma150|sma50|snr|ststoc|volextreme|rubberband|reload,,false,false,1793939969866
 113,US30,D1,MT4,2026-11-06,Nov 2026,SELL,,,,,8,Daily Strat,,,,sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1793940054112
