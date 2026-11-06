@@ -49,7 +49,7 @@
         "enabled": true,
         "source": "custom",
         "key": "",
-        "symbol": "USDCF",
+        "symbol": "USDC",
         "tf": "",
         "bias": "auto"
       }
