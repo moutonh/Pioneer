@@ -57,16 +57,22 @@
    "desc": "",
    "files": [
     {
-     "name": "FG_IndicatorsV9.mqh",
-     "kind": "include",
-     "size": 301701,
-     "ts": "2026-11-08T12:57:57.627Z"
-    },
-    {
      "name": "TOPDOG EA Cherry Setups using includes.mq4",
      "kind": "main",
      "size": 12261,
      "ts": "2026-11-08T12:57:57.811Z"
+    },
+    {
+     "name": "FG_Global_VariablesV7.mqh",
+     "kind": "include",
+     "size": 8416,
+     "ts": "2026-11-08T13:01:24.164Z"
+    },
+    {
+     "name": "FG_IndicatorsV9.mqh",
+     "kind": "include",
+     "size": 301701,
+     "ts": "2026-11-08T13:01:25.544Z"
     }
    ],
    "runs": []
