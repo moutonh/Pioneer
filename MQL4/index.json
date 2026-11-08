@@ -96,6 +96,36 @@
      "kind": "main",
      "size": 29642,
      "ts": "2026-11-08T18:25:51.932Z"
+    },
+    {
+     "name": "EA_Debug_LogV2.mqh",
+     "kind": "include",
+     "size": 27888,
+     "ts": "2026-11-08T18:27:05.913Z"
+    },
+    {
+     "name": "FG_Global_VariablesV7.mqh",
+     "kind": "include",
+     "size": 8416,
+     "ts": "2026-11-08T18:27:06.915Z"
+    },
+    {
+     "name": "FG_IndicatorsV9.mqh",
+     "kind": "include",
+     "size": 301701,
+     "ts": "2026-11-08T18:27:08.131Z"
+    },
+    {
+     "name": "FG_K_D_MomV4.mqh",
+     "kind": "include",
+     "size": 3631,
+     "ts": "2026-11-08T18:27:09.212Z"
+    },
+    {
+     "name": "FG_TriggersV7.mqh",
+     "kind": "include",
+     "size": 49605,
+     "ts": "2026-11-08T18:27:10.236Z"
     }
    ],
    "runs": []
