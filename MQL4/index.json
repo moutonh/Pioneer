@@ -90,7 +90,14 @@
    "stage": "PRD",
    "parent": "",
    "desc": "",
-   "files": [],
+   "files": [
+    {
+     "name": "TOPDOG - COMBO - CherryTrigv6_using_IncludesV9_LTConv removed.mq4",
+     "kind": "indicator",
+     "size": 29642,
+     "ts": "2026-11-08T18:18:46.941Z"
+    }
+   ],
    "runs": []
   }
  ]
