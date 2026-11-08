@@ -47,6 +47,29 @@
      }
     }
    ]
+  },
+  {
+   "id": "TopDog_test",
+   "name": "TopDog_test",
+   "type": "EA",
+   "stage": "DEV",
+   "parent": "",
+   "desc": "",
+   "files": [
+    {
+     "name": "FG_IndicatorsV9.mqh",
+     "kind": "include",
+     "size": 301701,
+     "ts": "2026-11-08T12:57:57.627Z"
+    },
+    {
+     "name": "TOPDOG EA Cherry Setups using includes.mq4",
+     "kind": "main",
+     "size": 12261,
+     "ts": "2026-11-08T12:57:57.811Z"
+    }
+   ],
+   "runs": []
   }
  ]
 }
