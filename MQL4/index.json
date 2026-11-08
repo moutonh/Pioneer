@@ -82,6 +82,16 @@
     }
    ],
    "runs": []
+  },
+  {
+   "id": "TOPDOG_Combo_CherryV6_light",
+   "name": "TOPDOG Combo CherryV6 light",
+   "type": "Indicator",
+   "stage": "PRD",
+   "parent": "",
+   "desc": "",
+   "files": [],
+   "runs": []
   }
  ]
 }
