@@ -7,7 +7,14 @@
    "stage": "DEV",
    "parent": "",
    "desc": "",
-   "files": [],
+   "files": [
+    {
+     "name": "TopDog_Cherry Picking  read from file SETUP_MT_Stoc.mq4",
+     "kind": "main",
+     "size": 13378,
+     "ts": "2026-11-08T06:04:32.894Z"
+    }
+   ],
    "runs": []
   }
  ]
