@@ -150,6 +150,12 @@
      "kind": "include",
      "size": 8140,
      "ts": "2026-11-08T18:33:35.932Z"
+    },
+    {
+     "name": "SMAAngleV3.mq4",
+     "kind": "indicator",
+     "size": 6115,
+     "ts": "2026-11-08T18:34:14.989Z"
     }
    ],
    "runs": []
