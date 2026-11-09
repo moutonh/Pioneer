@@ -186,7 +186,7 @@
    "stage": "DEV",
    "parent": "TOPDOG_Combo_CherryV6_light",
    "project": "TopDog_-_Cherry_Picking",
-   "desc": "Read",
+   "desc": "Read the SETUP MT_Stoc array from the Bin file in the Common folder",
    "files": [],
    "runs": []
   }
