@@ -36,7 +36,24 @@
    "stale": [],
    "loggedAt": "2026-11-03T04:14:34.994Z",
    "loggedTime": "06:14"
+  },
+  "2026-11-09": {
+   "symbol": "10YR",
+   "symName": "10YR",
+   "structure": "Might go a bit up before down",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "4H",
+   "tf2": "4H",
+   "h1": "137415:126kfj5",
+   "h2": "152375:5ln429",
+   "img1": "MST/history/10YR/2026-11/10YR_2026-11-09_log_1.jpg",
+   "img2": "MST/history/10YR/2026-11/10YR_2026-11-09_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-09T04:39:16.610Z",
+   "loggedTime": "06:39"
   }
  },
- "updatedAt": "2026-11-03T04:14:43.327Z"
+ "updatedAt": "2026-11-09T04:39:22.425Z"
 }
