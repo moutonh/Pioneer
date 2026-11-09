@@ -160,6 +160,17 @@
    ],
    "runs": [],
    "project": "TopDog_-_Cherry_Picking"
+  },
+  {
+   "id": "TOPDOG_Combo_CherryV6_Write_to_File",
+   "name": "TOPDOG Combo CherryV6 Write to File",
+   "type": "Indicator",
+   "stage": "DEV",
+   "parent": "TOPDOG_Combo_CherryV6_light",
+   "project": "TopDog_-_Cherry_Picking",
+   "desc": "Write out the SETUP MT_Stoc array",
+   "files": [],
+   "runs": []
   }
  ],
  "data": [
