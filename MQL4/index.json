@@ -162,20 +162,7 @@
    "project": "TopDog_-_Cherry_Picking"
   }
  ],
- "data": [
-  {
-   "k": "Indicators",
-   "name": "TopDog_SETUP_MT_Stoc_GBPUSD_240.bin",
-   "project": "",
-   "sym": "GBPUSD",
-   "tf": "H4",
-   "from": "2010.06.18",
-   "to": "2014.12.31",
-   "bars": 7320,
-   "buy": 1084,
-   "sell": 790
-  }
- ],
+ "data": [],
  "projects": [
   {
    "id": "TopDog_-_Cherry_Picking",
