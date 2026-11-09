@@ -269,6 +269,17 @@
      }
     }
    ]
+  },
+  {
+   "id": "With_Only_1_trade_per_SETUP",
+   "name": "With Only 1 trade per SETUP",
+   "type": "EA",
+   "stage": "DEV",
+   "parent": "With_MT_MOM",
+   "project": "TopDog_-_Cherry_Picking",
+   "desc": "Enter only 1 trade per setup ",
+   "files": [],
+   "runs": []
   }
  ],
  "data": [
