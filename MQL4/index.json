@@ -169,7 +169,14 @@
    "parent": "TOPDOG_Combo_CherryV6_light",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "Write out the SETUP MT_Stoc array",
-   "files": [],
+   "files": [
+    {
+     "name": "TOPDOG_-_COMBO_-_CherryTrigv7_SetupExport_RangeInName.mq4",
+     "kind": "main",
+     "size": 45982,
+     "ts": "2026-11-09T09:20:27.010Z"
+    }
+   ],
    "runs": []
   }
  ],
