@@ -168,7 +168,7 @@
    "stage": "DEV",
    "parent": "TOPDOG_Combo_CherryV6_light",
    "project": "TopDog_-_Cherry_Picking",
-   "desc": "Write out the SETUP MT_Stoc array",
+   "desc": "Write out the SETUP MT_Stoc array to Bin file in the Common folder\n",
    "files": [
     {
      "name": "TOPDOG_-_COMBO_-_CherryTrigv7_SetupExport_RangeInName.mq4",
