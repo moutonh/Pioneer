@@ -161,14 +161,6 @@
    "runs": []
   }
  ],
- "data": [
-  {
-   "k": "Indicators",
-   "name": "TopDog_SETUP_MT_Stoc_GBPUSD_240.bin",
-   "sym": "GBPUSD",
-   "tf": "H4",
-   "from": "",
-   "to": ""
-  }
- ]
+ "data": [],
+ "projects": []
 }
