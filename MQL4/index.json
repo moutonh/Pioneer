@@ -89,7 +89,7 @@
    "type": "Indicator",
    "stage": "PRD",
    "parent": "",
-   "desc": "",
+   "desc": "TOPDOG Cherry Picking Strategy and Setup indicator : Uses MT indicators on a ST chart",
    "files": [
     {
      "name": "TOPDOG - COMBO - CherryTrigv6_using_IncludesV9_LTConv removed.mq4",
