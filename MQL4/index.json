@@ -203,6 +203,18 @@
    "bars": 922,
    "buy": 127,
    "sell": 160
+  },
+  {
+   "k": "Indicators",
+   "name": "TopDog_SETUP_MT_Stoc_GBPUSD_240_20131106_20141231.bin",
+   "project": "",
+   "sym": "GBPUSD",
+   "tf": "H4",
+   "from": "2013.11.06",
+   "to": "2014.12.31",
+   "bars": 1850,
+   "buy": 320,
+   "sell": 180
   }
  ],
  "projects": [
