@@ -229,7 +229,14 @@
    "parent": "TOPDOG_CherryPicking",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "Enter only with MT_MOM",
-   "files": [],
+   "files": [
+    {
+     "name": "TopDog_Cherry Picking  read from file SETUP_MT_Stoc+MT_MOM.mq4",
+     "kind": "indicator",
+     "size": 14400,
+     "ts": "2026-11-09T12:52:00.736Z"
+    }
+   ],
    "runs": []
   }
  ],
