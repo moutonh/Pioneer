@@ -163,3 +163,4 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 111,SOLUSDT,D1,MT4,2026-11-05,Nov 2026,BUY,CLOSED,SL,-30,YES,8,Daily Strat,Ascending triganle into 61% Fib,,Closed - Very important Look for topping pattern on 4H that can break the SL,sma150|trendline|snr|ststoc|candle|volextreme|reload,1,false,false,1793854271864
 112,USDCHF,D1,MT4,2026-11-05,Nov 2026,BUY,TP,,102,,7,Daily Strat,,,,sma150|sma50|snr|ststoc|volextreme|rubberband|reload,,false,false,1793939969866
 113,US30,D1,MT4,2026-11-06,Nov 2026,SELL,SL,,-50,,8,Daily Strat,,,,sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1793940054112
+114,EURUSD,D1,MT4,2026-11-11,Nov 2026,SELL,,,,,10,Daily Strat,"Fakey Candle stick pattern, With strong DXY",,,sma150|sma50|ema820|killzone|trendline|ststoc|candle|volextreme|reload,1,false,false,1794407999098
