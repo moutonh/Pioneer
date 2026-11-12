@@ -320,7 +320,14 @@
    "parent": "With_Only_1_trade_per_SETUP",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "this EA reads from bin with range specified in file name",
-   "files": [],
+   "files": [
+    {
+     "name": "TopDog_Cherry_Picking__read_from_file_SETUP_MT_Stoc_MT_MOM_1perSETUPv2_AutoFile Using range.mq4",
+     "kind": "indicator",
+     "size": 18474,
+     "ts": "2026-11-12T10:06:18.297Z"
+    }
+   ],
    "runs": []
   }
  ],
