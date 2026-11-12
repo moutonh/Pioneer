@@ -311,6 +311,17 @@
      }
     }
    ]
+  },
+  {
+   "id": "Added_from_bin_range_name",
+   "name": "Added from bin range name",
+   "type": "EA",
+   "stage": "DEV",
+   "parent": "With_Only_1_trade_per_SETUP",
+   "project": "TopDog_-_Cherry_Picking",
+   "desc": "this EA reads from bin with range specified in file name",
+   "files": [],
+   "runs": []
   }
  ],
  "data": [
