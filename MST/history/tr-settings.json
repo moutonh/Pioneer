@@ -1,5 +1,5 @@
 {
- "horizon": 10,
+ "horizon": 15,
  "symbols": [
   "DXY",
   "USDT.D",
@@ -8,5 +8,5 @@
   "BTC.D",
   "VIX"
  ],
- "updatedAt": "2026-10-30T04:57:10.522Z"
+ "updatedAt": "2026-11-13T05:24:55.508Z"
 }
