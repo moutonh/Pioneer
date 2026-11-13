@@ -103,10 +103,12 @@
       "mindmap": "",
       "structure": "UP Bias\n - On Resistance\n - Daily stoc @ bottom\n - H4 mom wave 9",
       "watchFor": "",
-      "updatedAt": 1794547386871,
+      "updatedAt": 1794547389305,
       "priority": 2,
       "isHot": false,
-      "marketStates": [],
+      "marketStates": [
+        "up"
+      ],
       "chartData2": "",
       "tf2": "4H",
       "tf1": "D",
