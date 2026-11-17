@@ -1,7 +1,28 @@
 {
  "symbol": "VIX",
  "month": "2026-11",
- "days": {},
+ "days": {
+  "2026-11-17": {
+   "symbol": "VIX",
+   "symName": "VIX",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "",
+   "tf2": "",
+   "h1": "136111:1cxun6e",
+   "h2": "128111:1qobe5j",
+   "img1": "MST/history/VIX/2026-11/VIX_2026-11-17_call_1.jpg",
+   "img2": "MST/history/VIX/2026-11/VIX_2026-11-17_call_2.jpg",
+   "stale": [],
+   "calledAt": "2026-11-17T05:15:20.079Z",
+   "calledTime": "07:15",
+   "call": "down",
+   "verdicts": {},
+   "trigger": null
+  }
+ },
  "logs": {
   "2026-11-02": {
    "symbol": "VIX",
@@ -106,5 +127,5 @@
    "loggedTime": "07:14"
   }
  },
- "updatedAt": "2026-11-13T05:14:52.969Z"
+ "updatedAt": "2026-11-17T05:15:30.744Z"
 }
