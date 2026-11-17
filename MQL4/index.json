@@ -501,5 +501,20 @@
    "id": "TopDog_-_Cherry_Picking",
    "name": "TopDog - Cherry Picking"
   }
+ ],
+ "portfolios": [
+  {
+   "id": "PFmwkjytgdmc",
+   "name": "Speculative",
+   "dep": 10000,
+   "mm": {
+    "sys": "none",
+    "basis": "fixed",
+    "risk": 10,
+    "profit": 15,
+    "p": {}
+   },
+   "legs": []
+  }
  ]
 }
