@@ -42,7 +42,27 @@
    ],
    "loggedAt": "2026-11-11T06:48:41.568Z",
    "loggedTime": "08:48"
+  },
+  "2026-11-20": {
+   "symbol": "BTC.D",
+   "symName": "BTC.D",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "M",
+   "tf2": "",
+   "h1": "173203:39qtk7",
+   "h2": "153519:1b5nh8m",
+   "img1": "MST/history/BTC.D/2026-11/BTC.D_2026-11-20_log_1.jpg",
+   "img2": "MST/history/BTC.D/2026-11/BTC.D_2026-11-20_log_2.jpg",
+   "stale": [
+    1,
+    2
+   ],
+   "loggedAt": "2026-11-20T08:28:48.584Z",
+   "loggedTime": "10:28"
   }
  },
- "updatedAt": "2026-11-11T06:48:47.596Z"
+ "updatedAt": "2026-11-20T08:28:54.304Z"
 }
