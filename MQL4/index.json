@@ -600,6 +600,17 @@
      }
     }
    ]
+  },
+  {
+   "id": "Write_to_file_using_date_range",
+   "name": "Write to file using date range",
+   "type": "Indicator",
+   "stage": "DEV",
+   "parent": "TOPDOG_Combo_CherryV6_light",
+   "project": "TopDog_-_Cherry_Picking",
+   "desc": "Added date range",
+   "files": [],
+   "runs": []
   }
  ],
  "data": [
