@@ -606,7 +606,7 @@
    "name": "Write to file using date range",
    "type": "Indicator",
    "stage": "DEV",
-   "parent": "TOPDOG_Combo_CherryV6_light",
+   "parent": "TOPDOG_Combo_CherryV6_Write_to_File",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "Added date range",
    "files": [],
