@@ -50,7 +50,7 @@
         "source": "custom",
         "key": "",
         "symbol": "EURUSD",
-        "tf": "",
+        "tf": "D",
         "bias": "auto"
       }
     },
