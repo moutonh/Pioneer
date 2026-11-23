@@ -167,3 +167,6 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 115,ETHUSD,D1,MT4,2026-11-16,Nov 2026,BUY,SL,,-50,YES,7,Daily Strat,ST_MOM turned,,,sma150|snr|ststoc|volextreme|rubberband|reload,1,false,false,1795420246624
 116,BRENT,D1,MT4,2026-11-16,Nov 2026,SELL,,,,YES,7,Daily Strat,Strong MOM divergence,,,sma150|sma50|ema820|snr|mtmom|candle,1,false,false,1795420705878
 117,ETHUSD,D1,MT4,2026-11-23,Nov 2026,BUY,,,,YES,8,Daily Strat,ST_STOC pattern very strong,,,sma150|snr|ststoc|candle|volextreme|rubberband|reload,1,false,false,1795420951049
+118,EURUSD,D1,MT4,2026-11-23,Nov 2026,BUY,,,,YES,7,Daily Strat,"ST_MOM Turn,
+MT_MOM Divergence,
+DXY Strong turn signal",,,snr|ststoc|candle|volextreme,3,false,false,1795421413414
