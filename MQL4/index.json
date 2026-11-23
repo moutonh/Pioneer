@@ -624,6 +624,17 @@
     }
    ],
    "runs": []
+  },
+  {
+   "id": "Auto_detect_amount_of_BARS",
+   "name": "Auto detect amount of BARS",
+   "type": "Indicator",
+   "stage": "DEV",
+   "parent": "Write_to_file_using_date_range",
+   "project": "TopDog_-_Cherry_Picking",
+   "desc": "",
+   "files": [],
+   "runs": []
   }
  ],
  "data": [
