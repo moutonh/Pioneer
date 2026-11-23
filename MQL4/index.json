@@ -633,7 +633,14 @@
    "parent": "Write_to_file_using_date_range",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "",
-   "files": [],
+   "files": [
+    {
+     "name": "TOPDOG_-_COMBO_-_CherryTrigv7_SetupExport_DateRange_auto.mq4",
+     "kind": "main",
+     "size": 55956,
+     "ts": "2026-11-23T08:17:23.504Z"
+    }
+   ],
    "runs": []
   }
  ],
