@@ -165,3 +165,4 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 113,US30,D1,MT4,2026-11-06,Nov 2026,SELL,SL,,-50,,8,Daily Strat,,,,sma50|ema820|killzone|trendline|snr|mtmom|candle|volextreme,,false,false,1793940054112
 114,EURUSD,D1,MT4,2026-11-11,Nov 2026,SELL,CLOSED,,81,YES,10,Daily Strat,"Fakey Candle stick pattern, With strong DXY",,,sma150|sma50|ema820|killzone|trendline|ststoc|candle|volextreme|reload,1,false,false,1794407999098
 115,ETHUSD,D1,MT4,2026-11-16,Nov 2026,BUY,SL,,-50,YES,7,Daily Strat,ST_MOM turned,,,sma150|snr|ststoc|volextreme|rubberband|reload,1,false,false,1795420246624
+116,BRENT,D1,MT4,2026-11-16,Nov 2026,SELL,,,,YES,7,Daily Strat,Strong MOM divergence,,,sma150|sma50|ema820|snr|mtmom|candle,1,false,false,1795420705878
