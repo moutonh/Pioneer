@@ -217,7 +217,7 @@
    "stage": "DEV",
    "parent": "TOPDOG_Combo_CherryV6_light",
    "project": "TopDog_-_Cherry_Picking",
-   "desc": "Read the SETUP MT_Stoc array from the Bin file in the Common folder",
+   "desc": "Read the SETUP MT_Stoc array from the Bin file in the Common folder\n//+------------------------------------------------------------------+\n//| the exporter names its files <prefix>_<YYYYMMDD from>_<YYYYMMDD to>.bin |\n//+------------------------------------------------------------------+\nstring DataSym()                  // on the offline window chart (<SYMBOL>_W) the files belong to the real symbol\n  {\n   string s = Symbol();\n   int n = StringLen(s);\n   if(n > 2 && StringSubstr(s, n - 2) == \"_W\")\n      return(StringSubstr(s, 0, n - 2));\n   return(s);\n  }\n//+------------------------------------------------------------------+\nstring SetupFilePrefix()\n  {\n   return(\"TopDog_SETUP_MT_Stoc_\" + DataSym() + \"_\" + IntegerToString(Period()));\n  }",
    "files": [
     {
      "name": "TOPDOG_-_COMBO_-_CherryTrigv8_1_MTStocFromFilev3.mq4",
