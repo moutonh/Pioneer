@@ -218,7 +218,14 @@
    "parent": "TOPDOG_Combo_CherryV6_light",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "Read the SETUP MT_Stoc array from the Bin file in the Common folder",
-   "files": [],
+   "files": [
+    {
+     "name": "TOPDOG_-_COMBO_-_CherryTrigv8_1_MTStocFromFilev3.mq4",
+     "kind": "main",
+     "size": 46334,
+     "ts": "2026-11-24T10:55:47.326Z"
+    }
+   ],
    "runs": []
   },
   {
