@@ -193,7 +193,24 @@
    "stale": [],
    "loggedAt": "2026-11-23T07:13:54.974Z",
    "loggedTime": "09:13"
+  },
+  "2026-11-24": {
+   "symbol": "USDT.D",
+   "symName": "USDT.D",
+   "structure": "Strong momentum loss to the upside",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "136483:1mnpz7e",
+   "h2": "162435:ahxopy",
+   "img1": "MST/history/USDT.D/2026-11/USDT.D_2026-11-24_log_1.jpg",
+   "img2": "MST/history/USDT.D/2026-11/USDT.D_2026-11-24_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-24T03:56:47.159Z",
+   "loggedTime": "05:56"
   }
  },
- "updatedAt": "2026-11-23T07:14:21.224Z"
+ "updatedAt": "2026-11-24T03:56:53.399Z"
 }
