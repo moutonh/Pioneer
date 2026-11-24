@@ -167,6 +167,7 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 115,ETHUSD,D1,MT4,2026-11-16,Nov 2026,BUY,SL,,-50,YES,7,Daily Strat,ST_MOM turned,,,sma150|snr|ststoc|volextreme|rubberband|reload,1,false,false,1795420246624
 116,BRENT,D1,MT4,2026-11-16,Nov 2026,SELL,,,,YES,7,Daily Strat,Strong MOM divergence,,,sma150|sma50|ema820|snr|mtmom|candle,1,false,false,1795420705878
 117,ETHUSD,D1,MT4,2026-11-23,Nov 2026,BUY,,,,YES,8,Daily Strat,ST_STOC pattern very strong,,,sma150|snr|ststoc|candle|volextreme|rubberband|reload,1,false,false,1795420951049
-118,EURUSD,D1,MT4,2026-11-23,Nov 2026,BUY,CLOSED,SL,-40,YES,7,Daily Strat,"ST_MOM Turn,
+118,EURUSD,D1,MT4,2026-11-23,Nov 2026,BUY,CLOSED,SL,-40,NO,7,Daily Strat,"ST_MOM Turn,
 MT_MOM Divergence,
-DXY Strong turn signal",There was a Reload pattern onthe H4 DXY that I did not see.,,snr|ststoc|candle|volextreme,3,false,false,1795421413414
+DXY Strong turn signal","There was a Reload pattern on the H4 DXY that I did not see.
+ALSO, very important: There were 2 Inside pin bars in the oposite direction, I entered trade on a candle that was not CLOSED!!",,snr|ststoc|candle|volextreme,3,false,false,1795421413414
