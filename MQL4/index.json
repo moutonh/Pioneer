@@ -339,6 +339,12 @@
      "kind": "indicator",
      "size": 18474,
      "ts": "2026-11-12T10:06:18.297Z"
+    },
+    {
+     "name": "TopDog_Cherry_Picking__read_from_file_SETUP_MT_Stoc_MT_MOM_1perSETUPv2_AutoFile_Using_range_Preflight.mq4",
+     "kind": "main",
+     "size": 31791,
+     "ts": "2026-11-24T12:37:51.560Z"
     }
    ],
    "runs": [
