@@ -778,14 +778,7 @@
    "parent": "Auto_detect_amount_of_BARS",
    "project": "TopDog_-_Cherry_Picking",
    "desc": "You now do one thing: attach the indicator to the real GBPUSD chart and enter both From and To (2015-01-01 and 2016-12-31).\nIf the range is far back, with at least 2000 bars newer than your To date and more than 5000 bars needed, it does the rest itself:\nIt saves the chart as a temporary template.\nIt closes any old GBPUSD_W window chart.\nIt builds the small window chart with your range plus warm-up bars.\nIt opens that chart and attaches itself there with the same dates.\nThe .bin file is produced on the window chart, under the real symbol name GBPUSD.\nThe real chart only shows a note saying where the work is happening. The new chart shows the stage-by-stage progress.\nRanges that reach up to the present, or where only one date is given, are calculated directly on the real chart as before.",
-   "files": [
-    {
-     "name": "TOPDOG_-_COMBO_-_CherryTrigv7_SetupExport_DateRange_auto.mq4",
-     "kind": "main",
-     "size": 72899,
-     "ts": "2026-11-24T05:05:20.493Z"
-    }
-   ],
+   "files": [],
    "runs": []
   }
  ],
