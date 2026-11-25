@@ -159,7 +159,24 @@
    "stale": [],
    "loggedAt": "2026-11-20T08:28:39.072Z",
    "loggedTime": "10:28"
+  },
+  "2026-11-25": {
+   "symbol": "VIX",
+   "symName": "VIX",
+   "structure": "",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "",
+   "tf2": "",
+   "h1": "127395:78yfws",
+   "h2": "138951:65fc94",
+   "img1": "MST/history/VIX/2026-11/VIX_2026-11-25_log_1.jpg",
+   "img2": "MST/history/VIX/2026-11/VIX_2026-11-25_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-25T04:58:18.406Z",
+   "loggedTime": "06:58"
   }
  },
- "updatedAt": "2026-11-20T08:28:44.841Z"
+ "updatedAt": "2026-11-25T04:58:23.979Z"
 }
