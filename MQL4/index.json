@@ -1193,7 +1193,7 @@
    "name": "Speculative",
    "dep": 10000,
    "mm": {
-    "sys": "s4",
+    "sys": "s5",
     "basis": "fixed",
     "risk": 10,
     "profit": 15,
@@ -1226,10 +1226,20 @@
       "n1": 2,
       "wait3": 3,
       "keep2": 1
+     },
+     "s5": {
+      "trig": 3,
+      "rfStart": 2,
+      "hold": 3,
+      "stopN": 6,
+      "wait2": 2,
+      "n1": 2,
+      "wait3": 1,
+      "keep2": 0
      }
     },
     "ma": {
-     "on": false,
+     "on": true,
      "p1": 20,
      "s1": 45,
      "a1": 40,
