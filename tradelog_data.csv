@@ -171,3 +171,4 @@ MOM + DAD Divergence",,,sma150|ema820|trendline|snr|mtmom|ststoc|candle|volextre
 MT_MOM Divergence,
 DXY Strong turn signal","There was a Reload pattern on the H4 DXY that I did not see.
 ALSO, very important: There were 2 Inside pin bars in the oposite direction, I entered trade on a candle that was not CLOSED!!",,snr|ststoc|candle|volextreme,3,false,false,1795421413414
+119,US2000,D1,MT4,2026-11-26,Nov 2026,BUY,,,,,8,Daily Strat,ST_MOM,,,sma150|ema820|mtmom|ststoc|candle|rubberband|reload,1,false,false,1795675438821
