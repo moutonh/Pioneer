@@ -1193,7 +1193,7 @@
    "name": "Speculative",
    "dep": 10000,
    "mm": {
-    "sys": "none",
+    "sys": "s4",
     "basis": "fixed",
     "risk": 10,
     "profit": 15,
