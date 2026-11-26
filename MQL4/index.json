@@ -1310,61 +1310,6 @@
      "from": "",
      "to": "",
      "on": true
-    },
-    {
-     "id": "Lmwkkcaip4l",
-     "prog": "Added_from_bin_range_name",
-     "runs": [
-      "GBPUSD_H1_1794919475422",
-      "GBPUSD_H1_1794919467027",
-      "GBPUSD_H1_1794982035485",
-      "GBPUSD_H1_1794485459517",
-      "GBPUSD_H1_1795601352238",
-      "GBPUSD_H1_1795605138446",
-      "GBPUSD_H1_1795606572343",
-      "GBPUSD_H1_1795604063776",
-      "GBPUSD_H1_1795603040164",
-      "GBPUSD_H1_1795601932583"
-     ],
-     "dir": "all",
-     "hours": [
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true
-     ],
-     "days": [
-      true,
-      true,
-      true,
-      true,
-      true,
-      true,
-      true
-     ],
-     "from": "",
-     "to": "",
-     "on": true
     }
    ]
   }
