@@ -41,6 +41,26 @@
    "call": "up",
    "verdicts": {},
    "trigger": null
+  },
+  "2026-11-27": {
+   "symbol": "SPX",
+   "symName": "SPX",
+   "structure": "Pullback should be deep enough",
+   "watch": "",
+   "caption1": "",
+   "caption2": "",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "138839:1418exi",
+   "h2": "146463:1mgsuii",
+   "img1": "MST/history/SPX/2026-11/SPX_2026-11-27_call_1.jpg",
+   "img2": "MST/history/SPX/2026-11/SPX_2026-11-27_call_2.jpg",
+   "stale": [],
+   "calledAt": "2026-11-27T04:16:07.969Z",
+   "calledTime": "06:16",
+   "call": "up",
+   "verdicts": {},
+   "trigger": null
   }
  },
  "logs": {
@@ -215,5 +235,5 @@
    "loggedTime": "05:56"
   }
  },
- "updatedAt": "2026-11-24T03:57:04.421Z"
+ "updatedAt": "2026-11-27T04:16:15.750Z"
 }
