@@ -295,7 +295,24 @@
    "stale": [],
    "loggedAt": "2026-11-24T03:57:06.406Z",
    "loggedTime": "05:57"
+  },
+  "2026-11-27": {
+   "symbol": "DXY",
+   "symName": "DXY",
+   "structure": "UP Bias\n - On Resistance\n - Daily stoc @ bottom\n - H4 mom wave 9",
+   "watch": "",
+   "caption1": "",
+   "caption2": "4H - Detail chart",
+   "tf1": "D",
+   "tf2": "4H",
+   "h1": "159167:122s9ye",
+   "h2": "135759:6gxrcb",
+   "img1": "MST/history/DXY/2026-11/DXY_2026-11-27_log_1.jpg",
+   "img2": "MST/history/DXY/2026-11/DXY_2026-11-27_log_2.jpg",
+   "stale": [],
+   "loggedAt": "2026-11-27T04:16:32.950Z",
+   "loggedTime": "06:16"
   }
  },
- "updatedAt": "2026-11-24T03:57:12.145Z"
+ "updatedAt": "2026-11-27T04:16:38.869Z"
 }
